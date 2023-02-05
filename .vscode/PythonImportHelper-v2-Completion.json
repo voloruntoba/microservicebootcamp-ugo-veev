@@ -1,0 +1,1365 @@
+[
+    {
+        "label": "builder",
+        "importPath": "google.protobuf.internal",
+        "description": "google.protobuf.internal",
+        "isExtraImport": true,
+        "detail": "google.protobuf.internal",
+        "documentation": {}
+    },
+    {
+        "label": "builder",
+        "importPath": "google.protobuf.internal",
+        "description": "google.protobuf.internal",
+        "isExtraImport": true,
+        "detail": "google.protobuf.internal",
+        "documentation": {}
+    },
+    {
+        "label": "descriptor",
+        "importPath": "google.protobuf",
+        "description": "google.protobuf",
+        "isExtraImport": true,
+        "detail": "google.protobuf",
+        "documentation": {}
+    },
+    {
+        "label": "descriptor_pool",
+        "importPath": "google.protobuf",
+        "description": "google.protobuf",
+        "isExtraImport": true,
+        "detail": "google.protobuf",
+        "documentation": {}
+    },
+    {
+        "label": "symbol_database",
+        "importPath": "google.protobuf",
+        "description": "google.protobuf",
+        "isExtraImport": true,
+        "detail": "google.protobuf",
+        "documentation": {}
+    },
+    {
+        "label": "descriptor",
+        "importPath": "google.protobuf",
+        "description": "google.protobuf",
+        "isExtraImport": true,
+        "detail": "google.protobuf",
+        "documentation": {}
+    },
+    {
+        "label": "descriptor_pool",
+        "importPath": "google.protobuf",
+        "description": "google.protobuf",
+        "isExtraImport": true,
+        "detail": "google.protobuf",
+        "documentation": {}
+    },
+    {
+        "label": "symbol_database",
+        "importPath": "google.protobuf",
+        "description": "google.protobuf",
+        "isExtraImport": true,
+        "detail": "google.protobuf",
+        "documentation": {}
+    },
+    {
+        "label": "grpc",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "grpc",
+        "description": "grpc",
+        "detail": "grpc",
+        "documentation": {}
+    },
+    {
+        "label": "demo_pb2",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "demo_pb2",
+        "description": "demo_pb2",
+        "detail": "demo_pb2",
+        "documentation": {}
+    },
+    {
+        "label": "demo_pb2_grpc",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "demo_pb2_grpc",
+        "description": "demo_pb2_grpc",
+        "detail": "demo_pb2_grpc",
+        "documentation": {}
+    },
+    {
+        "label": "getJSONLogger",
+        "importPath": "logger",
+        "description": "logger",
+        "isExtraImport": true,
+        "detail": "logger",
+        "documentation": {}
+    },
+    {
+        "label": "getJSONLogger",
+        "importPath": "logger",
+        "description": "logger",
+        "isExtraImport": true,
+        "detail": "logger",
+        "documentation": {}
+    },
+    {
+        "label": "getJSONLogger",
+        "importPath": "logger",
+        "description": "logger",
+        "isExtraImport": true,
+        "detail": "logger",
+        "documentation": {}
+    },
+    {
+        "label": "getJSONLogger",
+        "importPath": "logger",
+        "description": "logger",
+        "isExtraImport": true,
+        "detail": "logger",
+        "documentation": {}
+    },
+    {
+        "label": "futures",
+        "importPath": "concurrent",
+        "description": "concurrent",
+        "isExtraImport": true,
+        "detail": "concurrent",
+        "documentation": {}
+    },
+    {
+        "label": "futures",
+        "importPath": "concurrent",
+        "description": "concurrent",
+        "isExtraImport": true,
+        "detail": "concurrent",
+        "documentation": {}
+    },
+    {
+        "label": "argparse",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "argparse",
+        "description": "argparse",
+        "detail": "argparse",
+        "documentation": {}
+    },
+    {
+        "label": "os",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "os",
+        "description": "os",
+        "detail": "os",
+        "documentation": {}
+    },
+    {
+        "label": "sys",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "sys",
+        "description": "sys",
+        "detail": "sys",
+        "documentation": {}
+    },
+    {
+        "label": "time",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "time",
+        "description": "time",
+        "detail": "time",
+        "documentation": {}
+    },
+    {
+        "label": "traceback",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "traceback",
+        "description": "traceback",
+        "detail": "traceback",
+        "documentation": {}
+    },
+    {
+        "label": "Environment",
+        "importPath": "jinja2",
+        "description": "jinja2",
+        "isExtraImport": true,
+        "detail": "jinja2",
+        "documentation": {}
+    },
+    {
+        "label": "FileSystemLoader",
+        "importPath": "jinja2",
+        "description": "jinja2",
+        "isExtraImport": true,
+        "detail": "jinja2",
+        "documentation": {}
+    },
+    {
+        "label": "select_autoescape",
+        "importPath": "jinja2",
+        "description": "jinja2",
+        "isExtraImport": true,
+        "detail": "jinja2",
+        "documentation": {}
+    },
+    {
+        "label": "TemplateError",
+        "importPath": "jinja2",
+        "description": "jinja2",
+        "isExtraImport": true,
+        "detail": "jinja2",
+        "documentation": {}
+    },
+    {
+        "label": "GoogleAPICallError",
+        "importPath": "google.api_core.exceptions",
+        "description": "google.api_core.exceptions",
+        "isExtraImport": true,
+        "detail": "google.api_core.exceptions",
+        "documentation": {}
+    },
+    {
+        "label": "DefaultCredentialsError",
+        "importPath": "google.auth.exceptions",
+        "description": "google.auth.exceptions",
+        "isExtraImport": true,
+        "detail": "google.auth.exceptions",
+        "documentation": {}
+    },
+    {
+        "label": "DefaultCredentialsError",
+        "importPath": "google.auth.exceptions",
+        "description": "google.auth.exceptions",
+        "isExtraImport": true,
+        "detail": "google.auth.exceptions",
+        "documentation": {}
+    },
+    {
+        "label": "health_pb2",
+        "importPath": "grpc_health.v1",
+        "description": "grpc_health.v1",
+        "isExtraImport": true,
+        "detail": "grpc_health.v1",
+        "documentation": {}
+    },
+    {
+        "label": "health_pb2_grpc",
+        "importPath": "grpc_health.v1",
+        "description": "grpc_health.v1",
+        "isExtraImport": true,
+        "detail": "grpc_health.v1",
+        "documentation": {}
+    },
+    {
+        "label": "health_pb2",
+        "importPath": "grpc_health.v1",
+        "description": "grpc_health.v1",
+        "isExtraImport": true,
+        "detail": "grpc_health.v1",
+        "documentation": {}
+    },
+    {
+        "label": "health_pb2_grpc",
+        "importPath": "grpc_health.v1",
+        "description": "grpc_health.v1",
+        "isExtraImport": true,
+        "detail": "grpc_health.v1",
+        "documentation": {}
+    },
+    {
+        "label": "trace",
+        "importPath": "opentelemetry",
+        "description": "opentelemetry",
+        "isExtraImport": true,
+        "detail": "opentelemetry",
+        "documentation": {}
+    },
+    {
+        "label": "trace",
+        "importPath": "opentelemetry",
+        "description": "opentelemetry",
+        "isExtraImport": true,
+        "detail": "opentelemetry",
+        "documentation": {}
+    },
+    {
+        "label": "GrpcInstrumentorServer",
+        "importPath": "opentelemetry.instrumentation.grpc",
+        "description": "opentelemetry.instrumentation.grpc",
+        "isExtraImport": true,
+        "detail": "opentelemetry.instrumentation.grpc",
+        "documentation": {}
+    },
+    {
+        "label": "GrpcInstrumentorClient",
+        "importPath": "opentelemetry.instrumentation.grpc",
+        "description": "opentelemetry.instrumentation.grpc",
+        "isExtraImport": true,
+        "detail": "opentelemetry.instrumentation.grpc",
+        "documentation": {}
+    },
+    {
+        "label": "GrpcInstrumentorServer",
+        "importPath": "opentelemetry.instrumentation.grpc",
+        "description": "opentelemetry.instrumentation.grpc",
+        "isExtraImport": true,
+        "detail": "opentelemetry.instrumentation.grpc",
+        "documentation": {}
+    },
+    {
+        "label": "TracerProvider",
+        "importPath": "opentelemetry.sdk.trace",
+        "description": "opentelemetry.sdk.trace",
+        "isExtraImport": true,
+        "detail": "opentelemetry.sdk.trace",
+        "documentation": {}
+    },
+    {
+        "label": "TracerProvider",
+        "importPath": "opentelemetry.sdk.trace",
+        "description": "opentelemetry.sdk.trace",
+        "isExtraImport": true,
+        "detail": "opentelemetry.sdk.trace",
+        "documentation": {}
+    },
+    {
+        "label": "BatchSpanProcessor",
+        "importPath": "opentelemetry.sdk.trace.export",
+        "description": "opentelemetry.sdk.trace.export",
+        "isExtraImport": true,
+        "detail": "opentelemetry.sdk.trace.export",
+        "documentation": {}
+    },
+    {
+        "label": "BatchSpanProcessor",
+        "importPath": "opentelemetry.sdk.trace.export",
+        "description": "opentelemetry.sdk.trace.export",
+        "isExtraImport": true,
+        "detail": "opentelemetry.sdk.trace.export",
+        "documentation": {}
+    },
+    {
+        "label": "OTLPSpanExporter",
+        "importPath": "opentelemetry.exporter.otlp.proto.grpc.trace_exporter",
+        "description": "opentelemetry.exporter.otlp.proto.grpc.trace_exporter",
+        "isExtraImport": true,
+        "detail": "opentelemetry.exporter.otlp.proto.grpc.trace_exporter",
+        "documentation": {}
+    },
+    {
+        "label": "OTLPSpanExporter",
+        "importPath": "opentelemetry.exporter.otlp.proto.grpc.trace_exporter",
+        "description": "opentelemetry.exporter.otlp.proto.grpc.trace_exporter",
+        "isExtraImport": true,
+        "detail": "opentelemetry.exporter.otlp.proto.grpc.trace_exporter",
+        "documentation": {}
+    },
+    {
+        "label": "googlecloudprofiler",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "googlecloudprofiler",
+        "description": "googlecloudprofiler",
+        "detail": "googlecloudprofiler",
+        "documentation": {}
+    },
+    {
+        "label": "logging",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "logging",
+        "description": "logging",
+        "detail": "logging",
+        "documentation": {}
+    },
+    {
+        "label": "jsonlogger",
+        "importPath": "pythonjsonlogger",
+        "description": "pythonjsonlogger",
+        "isExtraImport": true,
+        "detail": "pythonjsonlogger",
+        "documentation": {}
+    },
+    {
+        "label": "jsonlogger",
+        "importPath": "pythonjsonlogger",
+        "description": "pythonjsonlogger",
+        "isExtraImport": true,
+        "detail": "pythonjsonlogger",
+        "documentation": {}
+    },
+    {
+        "label": "random",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "random",
+        "description": "random",
+        "detail": "random",
+        "documentation": {}
+    },
+    {
+        "label": "HttpUser",
+        "importPath": "locust",
+        "description": "locust",
+        "isExtraImport": true,
+        "detail": "locust",
+        "documentation": {}
+    },
+    {
+        "label": "TaskSet",
+        "importPath": "locust",
+        "description": "locust",
+        "isExtraImport": true,
+        "detail": "locust",
+        "documentation": {}
+    },
+    {
+        "label": "between",
+        "importPath": "locust",
+        "description": "locust",
+        "isExtraImport": true,
+        "detail": "locust",
+        "documentation": {}
+    },
+    {
+        "label": "_sym_db",
+        "kind": 5,
+        "importPath": "src.emailservice.demo_pb2",
+        "description": "src.emailservice.demo_pb2",
+        "peekOfCode": "_sym_db = _symbol_database.Default()\nDESCRIPTOR = _descriptor_pool.Default().AddSerializedFile(b'\\n\\ndemo.proto\\x12\\x0bhipstershop\\\"0\\n\\x08\\x43\\x61rtItem\\x12\\x12\\n\\nproduct_id\\x18\\x01 \\x01(\\t\\x12\\x10\\n\\x08quantity\\x18\\x02 \\x01(\\x05\\\"F\\n\\x0e\\x41\\x64\\x64ItemRequest\\x12\\x0f\\n\\x07user_id\\x18\\x01 \\x01(\\t\\x12#\\n\\x04item\\x18\\x02 \\x01(\\x0b\\x32\\x15.hipstershop.CartItem\\\"#\\n\\x10\\x45mptyCartRequest\\x12\\x0f\\n\\x07user_id\\x18\\x01 \\x01(\\t\\\"!\\n\\x0eGetCartRequest\\x12\\x0f\\n\\x07user_id\\x18\\x01 \\x01(\\t\\\"=\\n\\x04\\x43\\x61rt\\x12\\x0f\\n\\x07user_id\\x18\\x01 \\x01(\\t\\x12$\\n\\x05items\\x18\\x02 \\x03(\\x0b\\x32\\x15.hipstershop.CartItem\\\"\\x07\\n\\x05\\x45mpty\\\"B\\n\\x1aListRecommendationsRequest\\x12\\x0f\\n\\x07user_id\\x18\\x01 \\x01(\\t\\x12\\x13\\n\\x0bproduct_ids\\x18\\x02 \\x03(\\t\\\"2\\n\\x1bListRecommendationsResponse\\x12\\x13\\n\\x0bproduct_ids\\x18\\x01 \\x03(\\t\\\"\\x84\\x01\\n\\x07Product\\x12\\n\\n\\x02id\\x18\\x01 \\x01(\\t\\x12\\x0c\\n\\x04name\\x18\\x02 \\x01(\\t\\x12\\x13\\n\\x0b\\x64\\x65scription\\x18\\x03 \\x01(\\t\\x12\\x0f\\n\\x07picture\\x18\\x04 \\x01(\\t\\x12%\\n\\tprice_usd\\x18\\x05 \\x01(\\x0b\\x32\\x12.hipstershop.Money\\x12\\x12\\n\\ncategories\\x18\\x06 \\x03(\\t\\\">\\n\\x14ListProductsResponse\\x12&\\n\\x08products\\x18\\x01 \\x03(\\x0b\\x32\\x14.hipstershop.Product\\\"\\x1f\\n\\x11GetProductRequest\\x12\\n\\n\\x02id\\x18\\x01 \\x01(\\t\\\"&\\n\\x15SearchProductsRequest\\x12\\r\\n\\x05query\\x18\\x01 \\x01(\\t\\\"?\\n\\x16SearchProductsResponse\\x12%\\n\\x07results\\x18\\x01 \\x03(\\x0b\\x32\\x14.hipstershop.Product\\\"^\\n\\x0fGetQuoteRequest\\x12%\\n\\x07\\x61\\x64\\x64ress\\x18\\x01 \\x01(\\x0b\\x32\\x14.hipstershop.Address\\x12$\\n\\x05items\\x18\\x02 \\x03(\\x0b\\x32\\x15.hipstershop.CartItem\\\"8\\n\\x10GetQuoteResponse\\x12$\\n\\x08\\x63ost_usd\\x18\\x01 \\x01(\\x0b\\x32\\x12.hipstershop.Money\\\"_\\n\\x10ShipOrderRequest\\x12%\\n\\x07\\x61\\x64\\x64ress\\x18\\x01 \\x01(\\x0b\\x32\\x14.hipstershop.Address\\x12$\\n\\x05items\\x18\\x02 \\x03(\\x0b\\x32\\x15.hipstershop.CartItem\\\"(\\n\\x11ShipOrderResponse\\x12\\x13\\n\\x0btracking_id\\x18\\x01 \\x01(\\t\\\"a\\n\\x07\\x41\\x64\\x64ress\\x12\\x16\\n\\x0estreet_address\\x18\\x01 \\x01(\\t\\x12\\x0c\\n\\x04\\x63ity\\x18\\x02 \\x01(\\t\\x12\\r\\n\\x05state\\x18\\x03 \\x01(\\t\\x12\\x0f\\n\\x07\\x63ountry\\x18\\x04 \\x01(\\t\\x12\\x10\\n\\x08zip_code\\x18\\x05 \\x01(\\x05\\\"<\\n\\x05Money\\x12\\x15\\n\\rcurrency_code\\x18\\x01 \\x01(\\t\\x12\\r\\n\\x05units\\x18\\x02 \\x01(\\x03\\x12\\r\\n\\x05nanos\\x18\\x03 \\x01(\\x05\\\"8\\n\\x1eGetSupportedCurrenciesResponse\\x12\\x16\\n\\x0e\\x63urrency_codes\\x18\\x01 \\x03(\\t\\\"N\\n\\x19\\x43urrencyConversionRequest\\x12 \\n\\x04\\x66rom\\x18\\x01 \\x01(\\x0b\\x32\\x12.hipstershop.Money\\x12\\x0f\\n\\x07to_code\\x18\\x02 \\x01(\\t\\\"\\x90\\x01\\n\\x0e\\x43reditCardInfo\\x12\\x1a\\n\\x12\\x63redit_card_number\\x18\\x01 \\x01(\\t\\x12\\x17\\n\\x0f\\x63redit_card_cvv\\x18\\x02 \\x01(\\x05\\x12#\\n\\x1b\\x63redit_card_expiration_year\\x18\\x03 \\x01(\\x05\\x12$\\n\\x1c\\x63redit_card_expiration_month\\x18\\x04 \\x01(\\x05\\\"e\\n\\rChargeRequest\\x12\\\"\\n\\x06\\x61mount\\x18\\x01 \\x01(\\x0b\\x32\\x12.hipstershop.Money\\x12\\x30\\n\\x0b\\x63redit_card\\x18\\x02 \\x01(\\x0b\\x32\\x1b.hipstershop.CreditCardInfo\\\"(\\n\\x0e\\x43hargeResponse\\x12\\x16\\n\\x0etransaction_id\\x18\\x01 \\x01(\\t\\\"R\\n\\tOrderItem\\x12#\\n\\x04item\\x18\\x01 \\x01(\\x0b\\x32\\x15.hipstershop.CartItem\\x12 \\n\\x04\\x63ost\\x18\\x02 \\x01(\\x0b\\x32\\x12.hipstershop.Money\\\"\\xbf\\x01\\n\\x0bOrderResult\\x12\\x10\\n\\x08order_id\\x18\\x01 \\x01(\\t\\x12\\x1c\\n\\x14shipping_tracking_id\\x18\\x02 \\x01(\\t\\x12)\\n\\rshipping_cost\\x18\\x03 \\x01(\\x0b\\x32\\x12.hipstershop.Money\\x12.\\n\\x10shipping_address\\x18\\x04 \\x01(\\x0b\\x32\\x14.hipstershop.Address\\x12%\\n\\x05items\\x18\\x05 \\x03(\\x0b\\x32\\x16.hipstershop.OrderItem\\\"V\\n\\x1cSendOrderConfirmationRequest\\x12\\r\\n\\x05\\x65mail\\x18\\x01 \\x01(\\t\\x12\\'\\n\\x05order\\x18\\x02 \\x01(\\x0b\\x32\\x18.hipstershop.OrderResult\\\"\\xa3\\x01\\n\\x11PlaceOrderRequest\\x12\\x0f\\n\\x07user_id\\x18\\x01 \\x01(\\t\\x12\\x15\\n\\ruser_currency\\x18\\x02 \\x01(\\t\\x12%\\n\\x07\\x61\\x64\\x64ress\\x18\\x03 \\x01(\\x0b\\x32\\x14.hipstershop.Address\\x12\\r\\n\\x05\\x65mail\\x18\\x05 \\x01(\\t\\x12\\x30\\n\\x0b\\x63redit_card\\x18\\x06 \\x01(\\x0b\\x32\\x1b.hipstershop.CreditCardInfo\\\"=\\n\\x12PlaceOrderResponse\\x12\\'\\n\\x05order\\x18\\x01 \\x01(\\x0b\\x32\\x18.hipstershop.OrderResult\\\"!\\n\\tAdRequest\\x12\\x14\\n\\x0c\\x63ontext_keys\\x18\\x01 \\x03(\\t\\\"*\\n\\nAdResponse\\x12\\x1c\\n\\x03\\x61\\x64s\\x18\\x01 \\x03(\\x0b\\x32\\x0f.hipstershop.Ad\\\"(\\n\\x02\\x41\\x64\\x12\\x14\\n\\x0credirect_url\\x18\\x01 \\x01(\\t\\x12\\x0c\\n\\x04text\\x18\\x02 \\x01(\\t2\\xca\\x01\\n\\x0b\\x43\\x61rtService\\x12<\\n\\x07\\x41\\x64\\x64Item\\x12\\x1b.hipstershop.AddItemRequest\\x1a\\x12.hipstershop.Empty\\\"\\x00\\x12;\\n\\x07GetCart\\x12\\x1b.hipstershop.GetCartRequest\\x1a\\x11.hipstershop.Cart\\\"\\x00\\x12@\\n\\tEmptyCart\\x12\\x1d.hipstershop.EmptyCartRequest\\x1a\\x12.hipstershop.Empty\\\"\\x00\\x32\\x83\\x01\\n\\x15RecommendationService\\x12j\\n\\x13ListRecommendations\\x12\\'.hipstershop.ListRecommendationsRequest\\x1a(.hipstershop.ListRecommendationsResponse\\\"\\x00\\x32\\x83\\x02\\n\\x15ProductCatalogService\\x12G\\n\\x0cListProducts\\x12\\x12.hipstershop.Empty\\x1a!.hipstershop.ListProductsResponse\\\"\\x00\\x12\\x44\\n\\nGetProduct\\x12\\x1e.hipstershop.GetProductRequest\\x1a\\x14.hipstershop.Product\\\"\\x00\\x12[\\n\\x0eSearchProducts\\x12\\\".hipstershop.SearchProductsRequest\\x1a#.hipstershop.SearchProductsResponse\\\"\\x00\\x32\\xaa\\x01\\n\\x0fShippingService\\x12I\\n\\x08GetQuote\\x12\\x1c.hipstershop.GetQuoteRequest\\x1a\\x1d.hipstershop.GetQuoteResponse\\\"\\x00\\x12L\\n\\tShipOrder\\x12\\x1d.hipstershop.ShipOrderRequest\\x1a\\x1e.hipstershop.ShipOrderResponse\\\"\\x00\\x32\\xb7\\x01\\n\\x0f\\x43urrencyService\\x12[\\n\\x16GetSupportedCurrencies\\x12\\x12.hipstershop.Empty\\x1a+.hipstershop.GetSupportedCurrenciesResponse\\\"\\x00\\x12G\\n\\x07\\x43onvert\\x12&.hipstershop.CurrencyConversionRequest\\x1a\\x12.hipstershop.Money\\\"\\x00\\x32U\\n\\x0ePaymentService\\x12\\x43\\n\\x06\\x43harge\\x12\\x1a.hipstershop.ChargeRequest\\x1a\\x1b.hipstershop.ChargeResponse\\\"\\x00\\x32h\\n\\x0c\\x45mailService\\x12X\\n\\x15SendOrderConfirmation\\x12).hipstershop.SendOrderConfirmationRequest\\x1a\\x12.hipstershop.Empty\\\"\\x00\\x32\\x62\\n\\x0f\\x43heckoutService\\x12O\\n\\nPlaceOrder\\x12\\x1e.hipstershop.PlaceOrderRequest\\x1a\\x1f.hipstershop.PlaceOrderResponse\\\"\\x00\\x32H\\n\\tAdService\\x12;\\n\\x06GetAds\\x12\\x16.hipstershop.AdRequest\\x1a\\x17.hipstershop.AdResponse\\\"\\x00\\x62\\x06proto3')\n_builder.BuildMessageAndEnumDescriptors(DESCRIPTOR, globals())\n_builder.BuildTopDescriptorsAndMessages(DESCRIPTOR, 'demo_pb2', globals())\nif _descriptor._USE_C_DESCRIPTORS == False:\n  DESCRIPTOR._options = None\n  _CARTITEM._serialized_start=27\n  _CARTITEM._serialized_end=75\n  _ADDITEMREQUEST._serialized_start=77\n  _ADDITEMREQUEST._serialized_end=147",
+        "detail": "src.emailservice.demo_pb2",
+        "documentation": {}
+    },
+    {
+        "label": "DESCRIPTOR",
+        "kind": 5,
+        "importPath": "src.emailservice.demo_pb2",
+        "description": "src.emailservice.demo_pb2",
+        "peekOfCode": "DESCRIPTOR = _descriptor_pool.Default().AddSerializedFile(b'\\n\\ndemo.proto\\x12\\x0bhipstershop\\\"0\\n\\x08\\x43\\x61rtItem\\x12\\x12\\n\\nproduct_id\\x18\\x01 \\x01(\\t\\x12\\x10\\n\\x08quantity\\x18\\x02 \\x01(\\x05\\\"F\\n\\x0e\\x41\\x64\\x64ItemRequest\\x12\\x0f\\n\\x07user_id\\x18\\x01 \\x01(\\t\\x12#\\n\\x04item\\x18\\x02 \\x01(\\x0b\\x32\\x15.hipstershop.CartItem\\\"#\\n\\x10\\x45mptyCartRequest\\x12\\x0f\\n\\x07user_id\\x18\\x01 \\x01(\\t\\\"!\\n\\x0eGetCartRequest\\x12\\x0f\\n\\x07user_id\\x18\\x01 \\x01(\\t\\\"=\\n\\x04\\x43\\x61rt\\x12\\x0f\\n\\x07user_id\\x18\\x01 \\x01(\\t\\x12$\\n\\x05items\\x18\\x02 \\x03(\\x0b\\x32\\x15.hipstershop.CartItem\\\"\\x07\\n\\x05\\x45mpty\\\"B\\n\\x1aListRecommendationsRequest\\x12\\x0f\\n\\x07user_id\\x18\\x01 \\x01(\\t\\x12\\x13\\n\\x0bproduct_ids\\x18\\x02 \\x03(\\t\\\"2\\n\\x1bListRecommendationsResponse\\x12\\x13\\n\\x0bproduct_ids\\x18\\x01 \\x03(\\t\\\"\\x84\\x01\\n\\x07Product\\x12\\n\\n\\x02id\\x18\\x01 \\x01(\\t\\x12\\x0c\\n\\x04name\\x18\\x02 \\x01(\\t\\x12\\x13\\n\\x0b\\x64\\x65scription\\x18\\x03 \\x01(\\t\\x12\\x0f\\n\\x07picture\\x18\\x04 \\x01(\\t\\x12%\\n\\tprice_usd\\x18\\x05 \\x01(\\x0b\\x32\\x12.hipstershop.Money\\x12\\x12\\n\\ncategories\\x18\\x06 \\x03(\\t\\\">\\n\\x14ListProductsResponse\\x12&\\n\\x08products\\x18\\x01 \\x03(\\x0b\\x32\\x14.hipstershop.Product\\\"\\x1f\\n\\x11GetProductRequest\\x12\\n\\n\\x02id\\x18\\x01 \\x01(\\t\\\"&\\n\\x15SearchProductsRequest\\x12\\r\\n\\x05query\\x18\\x01 \\x01(\\t\\\"?\\n\\x16SearchProductsResponse\\x12%\\n\\x07results\\x18\\x01 \\x03(\\x0b\\x32\\x14.hipstershop.Product\\\"^\\n\\x0fGetQuoteRequest\\x12%\\n\\x07\\x61\\x64\\x64ress\\x18\\x01 \\x01(\\x0b\\x32\\x14.hipstershop.Address\\x12$\\n\\x05items\\x18\\x02 \\x03(\\x0b\\x32\\x15.hipstershop.CartItem\\\"8\\n\\x10GetQuoteResponse\\x12$\\n\\x08\\x63ost_usd\\x18\\x01 \\x01(\\x0b\\x32\\x12.hipstershop.Money\\\"_\\n\\x10ShipOrderRequest\\x12%\\n\\x07\\x61\\x64\\x64ress\\x18\\x01 \\x01(\\x0b\\x32\\x14.hipstershop.Address\\x12$\\n\\x05items\\x18\\x02 \\x03(\\x0b\\x32\\x15.hipstershop.CartItem\\\"(\\n\\x11ShipOrderResponse\\x12\\x13\\n\\x0btracking_id\\x18\\x01 \\x01(\\t\\\"a\\n\\x07\\x41\\x64\\x64ress\\x12\\x16\\n\\x0estreet_address\\x18\\x01 \\x01(\\t\\x12\\x0c\\n\\x04\\x63ity\\x18\\x02 \\x01(\\t\\x12\\r\\n\\x05state\\x18\\x03 \\x01(\\t\\x12\\x0f\\n\\x07\\x63ountry\\x18\\x04 \\x01(\\t\\x12\\x10\\n\\x08zip_code\\x18\\x05 \\x01(\\x05\\\"<\\n\\x05Money\\x12\\x15\\n\\rcurrency_code\\x18\\x01 \\x01(\\t\\x12\\r\\n\\x05units\\x18\\x02 \\x01(\\x03\\x12\\r\\n\\x05nanos\\x18\\x03 \\x01(\\x05\\\"8\\n\\x1eGetSupportedCurrenciesResponse\\x12\\x16\\n\\x0e\\x63urrency_codes\\x18\\x01 \\x03(\\t\\\"N\\n\\x19\\x43urrencyConversionRequest\\x12 \\n\\x04\\x66rom\\x18\\x01 \\x01(\\x0b\\x32\\x12.hipstershop.Money\\x12\\x0f\\n\\x07to_code\\x18\\x02 \\x01(\\t\\\"\\x90\\x01\\n\\x0e\\x43reditCardInfo\\x12\\x1a\\n\\x12\\x63redit_card_number\\x18\\x01 \\x01(\\t\\x12\\x17\\n\\x0f\\x63redit_card_cvv\\x18\\x02 \\x01(\\x05\\x12#\\n\\x1b\\x63redit_card_expiration_year\\x18\\x03 \\x01(\\x05\\x12$\\n\\x1c\\x63redit_card_expiration_month\\x18\\x04 \\x01(\\x05\\\"e\\n\\rChargeRequest\\x12\\\"\\n\\x06\\x61mount\\x18\\x01 \\x01(\\x0b\\x32\\x12.hipstershop.Money\\x12\\x30\\n\\x0b\\x63redit_card\\x18\\x02 \\x01(\\x0b\\x32\\x1b.hipstershop.CreditCardInfo\\\"(\\n\\x0e\\x43hargeResponse\\x12\\x16\\n\\x0etransaction_id\\x18\\x01 \\x01(\\t\\\"R\\n\\tOrderItem\\x12#\\n\\x04item\\x18\\x01 \\x01(\\x0b\\x32\\x15.hipstershop.CartItem\\x12 \\n\\x04\\x63ost\\x18\\x02 \\x01(\\x0b\\x32\\x12.hipstershop.Money\\\"\\xbf\\x01\\n\\x0bOrderResult\\x12\\x10\\n\\x08order_id\\x18\\x01 \\x01(\\t\\x12\\x1c\\n\\x14shipping_tracking_id\\x18\\x02 \\x01(\\t\\x12)\\n\\rshipping_cost\\x18\\x03 \\x01(\\x0b\\x32\\x12.hipstershop.Money\\x12.\\n\\x10shipping_address\\x18\\x04 \\x01(\\x0b\\x32\\x14.hipstershop.Address\\x12%\\n\\x05items\\x18\\x05 \\x03(\\x0b\\x32\\x16.hipstershop.OrderItem\\\"V\\n\\x1cSendOrderConfirmationRequest\\x12\\r\\n\\x05\\x65mail\\x18\\x01 \\x01(\\t\\x12\\'\\n\\x05order\\x18\\x02 \\x01(\\x0b\\x32\\x18.hipstershop.OrderResult\\\"\\xa3\\x01\\n\\x11PlaceOrderRequest\\x12\\x0f\\n\\x07user_id\\x18\\x01 \\x01(\\t\\x12\\x15\\n\\ruser_currency\\x18\\x02 \\x01(\\t\\x12%\\n\\x07\\x61\\x64\\x64ress\\x18\\x03 \\x01(\\x0b\\x32\\x14.hipstershop.Address\\x12\\r\\n\\x05\\x65mail\\x18\\x05 \\x01(\\t\\x12\\x30\\n\\x0b\\x63redit_card\\x18\\x06 \\x01(\\x0b\\x32\\x1b.hipstershop.CreditCardInfo\\\"=\\n\\x12PlaceOrderResponse\\x12\\'\\n\\x05order\\x18\\x01 \\x01(\\x0b\\x32\\x18.hipstershop.OrderResult\\\"!\\n\\tAdRequest\\x12\\x14\\n\\x0c\\x63ontext_keys\\x18\\x01 \\x03(\\t\\\"*\\n\\nAdResponse\\x12\\x1c\\n\\x03\\x61\\x64s\\x18\\x01 \\x03(\\x0b\\x32\\x0f.hipstershop.Ad\\\"(\\n\\x02\\x41\\x64\\x12\\x14\\n\\x0credirect_url\\x18\\x01 \\x01(\\t\\x12\\x0c\\n\\x04text\\x18\\x02 \\x01(\\t2\\xca\\x01\\n\\x0b\\x43\\x61rtService\\x12<\\n\\x07\\x41\\x64\\x64Item\\x12\\x1b.hipstershop.AddItemRequest\\x1a\\x12.hipstershop.Empty\\\"\\x00\\x12;\\n\\x07GetCart\\x12\\x1b.hipstershop.GetCartRequest\\x1a\\x11.hipstershop.Cart\\\"\\x00\\x12@\\n\\tEmptyCart\\x12\\x1d.hipstershop.EmptyCartRequest\\x1a\\x12.hipstershop.Empty\\\"\\x00\\x32\\x83\\x01\\n\\x15RecommendationService\\x12j\\n\\x13ListRecommendations\\x12\\'.hipstershop.ListRecommendationsRequest\\x1a(.hipstershop.ListRecommendationsResponse\\\"\\x00\\x32\\x83\\x02\\n\\x15ProductCatalogService\\x12G\\n\\x0cListProducts\\x12\\x12.hipstershop.Empty\\x1a!.hipstershop.ListProductsResponse\\\"\\x00\\x12\\x44\\n\\nGetProduct\\x12\\x1e.hipstershop.GetProductRequest\\x1a\\x14.hipstershop.Product\\\"\\x00\\x12[\\n\\x0eSearchProducts\\x12\\\".hipstershop.SearchProductsRequest\\x1a#.hipstershop.SearchProductsResponse\\\"\\x00\\x32\\xaa\\x01\\n\\x0fShippingService\\x12I\\n\\x08GetQuote\\x12\\x1c.hipstershop.GetQuoteRequest\\x1a\\x1d.hipstershop.GetQuoteResponse\\\"\\x00\\x12L\\n\\tShipOrder\\x12\\x1d.hipstershop.ShipOrderRequest\\x1a\\x1e.hipstershop.ShipOrderResponse\\\"\\x00\\x32\\xb7\\x01\\n\\x0f\\x43urrencyService\\x12[\\n\\x16GetSupportedCurrencies\\x12\\x12.hipstershop.Empty\\x1a+.hipstershop.GetSupportedCurrenciesResponse\\\"\\x00\\x12G\\n\\x07\\x43onvert\\x12&.hipstershop.CurrencyConversionRequest\\x1a\\x12.hipstershop.Money\\\"\\x00\\x32U\\n\\x0ePaymentService\\x12\\x43\\n\\x06\\x43harge\\x12\\x1a.hipstershop.ChargeRequest\\x1a\\x1b.hipstershop.ChargeResponse\\\"\\x00\\x32h\\n\\x0c\\x45mailService\\x12X\\n\\x15SendOrderConfirmation\\x12).hipstershop.SendOrderConfirmationRequest\\x1a\\x12.hipstershop.Empty\\\"\\x00\\x32\\x62\\n\\x0f\\x43heckoutService\\x12O\\n\\nPlaceOrder\\x12\\x1e.hipstershop.PlaceOrderRequest\\x1a\\x1f.hipstershop.PlaceOrderResponse\\\"\\x00\\x32H\\n\\tAdService\\x12;\\n\\x06GetAds\\x12\\x16.hipstershop.AdRequest\\x1a\\x17.hipstershop.AdResponse\\\"\\x00\\x62\\x06proto3')\n_builder.BuildMessageAndEnumDescriptors(DESCRIPTOR, globals())\n_builder.BuildTopDescriptorsAndMessages(DESCRIPTOR, 'demo_pb2', globals())\nif _descriptor._USE_C_DESCRIPTORS == False:\n  DESCRIPTOR._options = None\n  _CARTITEM._serialized_start=27\n  _CARTITEM._serialized_end=75\n  _ADDITEMREQUEST._serialized_start=77\n  _ADDITEMREQUEST._serialized_end=147\n  _EMPTYCARTREQUEST._serialized_start=149",
+        "detail": "src.emailservice.demo_pb2",
+        "documentation": {}
+    },
+    {
+        "label": "CartServiceStub",
+        "kind": 6,
+        "importPath": "src.emailservice.demo_pb2_grpc",
+        "description": "src.emailservice.demo_pb2_grpc",
+        "peekOfCode": "class CartServiceStub(object):\n    \"\"\"-----------------Cart service-----------------\n    \"\"\"\n    def __init__(self, channel):\n        \"\"\"Constructor.\n        Args:\n            channel: A grpc.Channel.\n        \"\"\"\n        self.AddItem = channel.unary_unary(\n                '/hipstershop.CartService/AddItem',",
+        "detail": "src.emailservice.demo_pb2_grpc",
+        "documentation": {}
+    },
+    {
+        "label": "CartServiceServicer",
+        "kind": 6,
+        "importPath": "src.emailservice.demo_pb2_grpc",
+        "description": "src.emailservice.demo_pb2_grpc",
+        "peekOfCode": "class CartServiceServicer(object):\n    \"\"\"-----------------Cart service-----------------\n    \"\"\"\n    def AddItem(self, request, context):\n        \"\"\"Missing associated documentation comment in .proto file.\"\"\"\n        context.set_code(grpc.StatusCode.UNIMPLEMENTED)\n        context.set_details('Method not implemented!')\n        raise NotImplementedError('Method not implemented!')\n    def GetCart(self, request, context):\n        \"\"\"Missing associated documentation comment in .proto file.\"\"\"",
+        "detail": "src.emailservice.demo_pb2_grpc",
+        "documentation": {}
+    },
+    {
+        "label": "CartService",
+        "kind": 6,
+        "importPath": "src.emailservice.demo_pb2_grpc",
+        "description": "src.emailservice.demo_pb2_grpc",
+        "peekOfCode": "class CartService(object):\n    \"\"\"-----------------Cart service-----------------\n    \"\"\"\n    @staticmethod\n    def AddItem(request,\n            target,\n            options=(),\n            channel_credentials=None,\n            call_credentials=None,\n            insecure=False,",
+        "detail": "src.emailservice.demo_pb2_grpc",
+        "documentation": {}
+    },
+    {
+        "label": "RecommendationServiceStub",
+        "kind": 6,
+        "importPath": "src.emailservice.demo_pb2_grpc",
+        "description": "src.emailservice.demo_pb2_grpc",
+        "peekOfCode": "class RecommendationServiceStub(object):\n    \"\"\"---------------Recommendation service----------\n    \"\"\"\n    def __init__(self, channel):\n        \"\"\"Constructor.\n        Args:\n            channel: A grpc.Channel.\n        \"\"\"\n        self.ListRecommendations = channel.unary_unary(\n                '/hipstershop.RecommendationService/ListRecommendations',",
+        "detail": "src.emailservice.demo_pb2_grpc",
+        "documentation": {}
+    },
+    {
+        "label": "RecommendationServiceServicer",
+        "kind": 6,
+        "importPath": "src.emailservice.demo_pb2_grpc",
+        "description": "src.emailservice.demo_pb2_grpc",
+        "peekOfCode": "class RecommendationServiceServicer(object):\n    \"\"\"---------------Recommendation service----------\n    \"\"\"\n    def ListRecommendations(self, request, context):\n        \"\"\"Missing associated documentation comment in .proto file.\"\"\"\n        context.set_code(grpc.StatusCode.UNIMPLEMENTED)\n        context.set_details('Method not implemented!')\n        raise NotImplementedError('Method not implemented!')\ndef add_RecommendationServiceServicer_to_server(servicer, server):\n    rpc_method_handlers = {",
+        "detail": "src.emailservice.demo_pb2_grpc",
+        "documentation": {}
+    },
+    {
+        "label": "RecommendationService",
+        "kind": 6,
+        "importPath": "src.emailservice.demo_pb2_grpc",
+        "description": "src.emailservice.demo_pb2_grpc",
+        "peekOfCode": "class RecommendationService(object):\n    \"\"\"---------------Recommendation service----------\n    \"\"\"\n    @staticmethod\n    def ListRecommendations(request,\n            target,\n            options=(),\n            channel_credentials=None,\n            call_credentials=None,\n            insecure=False,",
+        "detail": "src.emailservice.demo_pb2_grpc",
+        "documentation": {}
+    },
+    {
+        "label": "ProductCatalogServiceStub",
+        "kind": 6,
+        "importPath": "src.emailservice.demo_pb2_grpc",
+        "description": "src.emailservice.demo_pb2_grpc",
+        "peekOfCode": "class ProductCatalogServiceStub(object):\n    \"\"\"---------------Product Catalog----------------\n    \"\"\"\n    def __init__(self, channel):\n        \"\"\"Constructor.\n        Args:\n            channel: A grpc.Channel.\n        \"\"\"\n        self.ListProducts = channel.unary_unary(\n                '/hipstershop.ProductCatalogService/ListProducts',",
+        "detail": "src.emailservice.demo_pb2_grpc",
+        "documentation": {}
+    },
+    {
+        "label": "ProductCatalogServiceServicer",
+        "kind": 6,
+        "importPath": "src.emailservice.demo_pb2_grpc",
+        "description": "src.emailservice.demo_pb2_grpc",
+        "peekOfCode": "class ProductCatalogServiceServicer(object):\n    \"\"\"---------------Product Catalog----------------\n    \"\"\"\n    def ListProducts(self, request, context):\n        \"\"\"Missing associated documentation comment in .proto file.\"\"\"\n        context.set_code(grpc.StatusCode.UNIMPLEMENTED)\n        context.set_details('Method not implemented!')\n        raise NotImplementedError('Method not implemented!')\n    def GetProduct(self, request, context):\n        \"\"\"Missing associated documentation comment in .proto file.\"\"\"",
+        "detail": "src.emailservice.demo_pb2_grpc",
+        "documentation": {}
+    },
+    {
+        "label": "ProductCatalogService",
+        "kind": 6,
+        "importPath": "src.emailservice.demo_pb2_grpc",
+        "description": "src.emailservice.demo_pb2_grpc",
+        "peekOfCode": "class ProductCatalogService(object):\n    \"\"\"---------------Product Catalog----------------\n    \"\"\"\n    @staticmethod\n    def ListProducts(request,\n            target,\n            options=(),\n            channel_credentials=None,\n            call_credentials=None,\n            insecure=False,",
+        "detail": "src.emailservice.demo_pb2_grpc",
+        "documentation": {}
+    },
+    {
+        "label": "ShippingServiceStub",
+        "kind": 6,
+        "importPath": "src.emailservice.demo_pb2_grpc",
+        "description": "src.emailservice.demo_pb2_grpc",
+        "peekOfCode": "class ShippingServiceStub(object):\n    \"\"\"---------------Shipping Service----------\n    \"\"\"\n    def __init__(self, channel):\n        \"\"\"Constructor.\n        Args:\n            channel: A grpc.Channel.\n        \"\"\"\n        self.GetQuote = channel.unary_unary(\n                '/hipstershop.ShippingService/GetQuote',",
+        "detail": "src.emailservice.demo_pb2_grpc",
+        "documentation": {}
+    },
+    {
+        "label": "ShippingServiceServicer",
+        "kind": 6,
+        "importPath": "src.emailservice.demo_pb2_grpc",
+        "description": "src.emailservice.demo_pb2_grpc",
+        "peekOfCode": "class ShippingServiceServicer(object):\n    \"\"\"---------------Shipping Service----------\n    \"\"\"\n    def GetQuote(self, request, context):\n        \"\"\"Missing associated documentation comment in .proto file.\"\"\"\n        context.set_code(grpc.StatusCode.UNIMPLEMENTED)\n        context.set_details('Method not implemented!')\n        raise NotImplementedError('Method not implemented!')\n    def ShipOrder(self, request, context):\n        \"\"\"Missing associated documentation comment in .proto file.\"\"\"",
+        "detail": "src.emailservice.demo_pb2_grpc",
+        "documentation": {}
+    },
+    {
+        "label": "ShippingService",
+        "kind": 6,
+        "importPath": "src.emailservice.demo_pb2_grpc",
+        "description": "src.emailservice.demo_pb2_grpc",
+        "peekOfCode": "class ShippingService(object):\n    \"\"\"---------------Shipping Service----------\n    \"\"\"\n    @staticmethod\n    def GetQuote(request,\n            target,\n            options=(),\n            channel_credentials=None,\n            call_credentials=None,\n            insecure=False,",
+        "detail": "src.emailservice.demo_pb2_grpc",
+        "documentation": {}
+    },
+    {
+        "label": "CurrencyServiceStub",
+        "kind": 6,
+        "importPath": "src.emailservice.demo_pb2_grpc",
+        "description": "src.emailservice.demo_pb2_grpc",
+        "peekOfCode": "class CurrencyServiceStub(object):\n    \"\"\"-----------------Currency service-----------------\n    \"\"\"\n    def __init__(self, channel):\n        \"\"\"Constructor.\n        Args:\n            channel: A grpc.Channel.\n        \"\"\"\n        self.GetSupportedCurrencies = channel.unary_unary(\n                '/hipstershop.CurrencyService/GetSupportedCurrencies',",
+        "detail": "src.emailservice.demo_pb2_grpc",
+        "documentation": {}
+    },
+    {
+        "label": "CurrencyServiceServicer",
+        "kind": 6,
+        "importPath": "src.emailservice.demo_pb2_grpc",
+        "description": "src.emailservice.demo_pb2_grpc",
+        "peekOfCode": "class CurrencyServiceServicer(object):\n    \"\"\"-----------------Currency service-----------------\n    \"\"\"\n    def GetSupportedCurrencies(self, request, context):\n        \"\"\"Missing associated documentation comment in .proto file.\"\"\"\n        context.set_code(grpc.StatusCode.UNIMPLEMENTED)\n        context.set_details('Method not implemented!')\n        raise NotImplementedError('Method not implemented!')\n    def Convert(self, request, context):\n        \"\"\"Missing associated documentation comment in .proto file.\"\"\"",
+        "detail": "src.emailservice.demo_pb2_grpc",
+        "documentation": {}
+    },
+    {
+        "label": "CurrencyService",
+        "kind": 6,
+        "importPath": "src.emailservice.demo_pb2_grpc",
+        "description": "src.emailservice.demo_pb2_grpc",
+        "peekOfCode": "class CurrencyService(object):\n    \"\"\"-----------------Currency service-----------------\n    \"\"\"\n    @staticmethod\n    def GetSupportedCurrencies(request,\n            target,\n            options=(),\n            channel_credentials=None,\n            call_credentials=None,\n            insecure=False,",
+        "detail": "src.emailservice.demo_pb2_grpc",
+        "documentation": {}
+    },
+    {
+        "label": "PaymentServiceStub",
+        "kind": 6,
+        "importPath": "src.emailservice.demo_pb2_grpc",
+        "description": "src.emailservice.demo_pb2_grpc",
+        "peekOfCode": "class PaymentServiceStub(object):\n    \"\"\"-------------Payment service-----------------\n    \"\"\"\n    def __init__(self, channel):\n        \"\"\"Constructor.\n        Args:\n            channel: A grpc.Channel.\n        \"\"\"\n        self.Charge = channel.unary_unary(\n                '/hipstershop.PaymentService/Charge',",
+        "detail": "src.emailservice.demo_pb2_grpc",
+        "documentation": {}
+    },
+    {
+        "label": "PaymentServiceServicer",
+        "kind": 6,
+        "importPath": "src.emailservice.demo_pb2_grpc",
+        "description": "src.emailservice.demo_pb2_grpc",
+        "peekOfCode": "class PaymentServiceServicer(object):\n    \"\"\"-------------Payment service-----------------\n    \"\"\"\n    def Charge(self, request, context):\n        \"\"\"Missing associated documentation comment in .proto file.\"\"\"\n        context.set_code(grpc.StatusCode.UNIMPLEMENTED)\n        context.set_details('Method not implemented!')\n        raise NotImplementedError('Method not implemented!')\ndef add_PaymentServiceServicer_to_server(servicer, server):\n    rpc_method_handlers = {",
+        "detail": "src.emailservice.demo_pb2_grpc",
+        "documentation": {}
+    },
+    {
+        "label": "PaymentService",
+        "kind": 6,
+        "importPath": "src.emailservice.demo_pb2_grpc",
+        "description": "src.emailservice.demo_pb2_grpc",
+        "peekOfCode": "class PaymentService(object):\n    \"\"\"-------------Payment service-----------------\n    \"\"\"\n    @staticmethod\n    def Charge(request,\n            target,\n            options=(),\n            channel_credentials=None,\n            call_credentials=None,\n            insecure=False,",
+        "detail": "src.emailservice.demo_pb2_grpc",
+        "documentation": {}
+    },
+    {
+        "label": "EmailServiceStub",
+        "kind": 6,
+        "importPath": "src.emailservice.demo_pb2_grpc",
+        "description": "src.emailservice.demo_pb2_grpc",
+        "peekOfCode": "class EmailServiceStub(object):\n    \"\"\"-------------Email service-----------------\n    \"\"\"\n    def __init__(self, channel):\n        \"\"\"Constructor.\n        Args:\n            channel: A grpc.Channel.\n        \"\"\"\n        self.SendOrderConfirmation = channel.unary_unary(\n                '/hipstershop.EmailService/SendOrderConfirmation',",
+        "detail": "src.emailservice.demo_pb2_grpc",
+        "documentation": {}
+    },
+    {
+        "label": "EmailServiceServicer",
+        "kind": 6,
+        "importPath": "src.emailservice.demo_pb2_grpc",
+        "description": "src.emailservice.demo_pb2_grpc",
+        "peekOfCode": "class EmailServiceServicer(object):\n    \"\"\"-------------Email service-----------------\n    \"\"\"\n    def SendOrderConfirmation(self, request, context):\n        \"\"\"Missing associated documentation comment in .proto file.\"\"\"\n        context.set_code(grpc.StatusCode.UNIMPLEMENTED)\n        context.set_details('Method not implemented!')\n        raise NotImplementedError('Method not implemented!')\ndef add_EmailServiceServicer_to_server(servicer, server):\n    rpc_method_handlers = {",
+        "detail": "src.emailservice.demo_pb2_grpc",
+        "documentation": {}
+    },
+    {
+        "label": "EmailService",
+        "kind": 6,
+        "importPath": "src.emailservice.demo_pb2_grpc",
+        "description": "src.emailservice.demo_pb2_grpc",
+        "peekOfCode": "class EmailService(object):\n    \"\"\"-------------Email service-----------------\n    \"\"\"\n    @staticmethod\n    def SendOrderConfirmation(request,\n            target,\n            options=(),\n            channel_credentials=None,\n            call_credentials=None,\n            insecure=False,",
+        "detail": "src.emailservice.demo_pb2_grpc",
+        "documentation": {}
+    },
+    {
+        "label": "CheckoutServiceStub",
+        "kind": 6,
+        "importPath": "src.emailservice.demo_pb2_grpc",
+        "description": "src.emailservice.demo_pb2_grpc",
+        "peekOfCode": "class CheckoutServiceStub(object):\n    \"\"\"-------------Checkout service-----------------\n    \"\"\"\n    def __init__(self, channel):\n        \"\"\"Constructor.\n        Args:\n            channel: A grpc.Channel.\n        \"\"\"\n        self.PlaceOrder = channel.unary_unary(\n                '/hipstershop.CheckoutService/PlaceOrder',",
+        "detail": "src.emailservice.demo_pb2_grpc",
+        "documentation": {}
+    },
+    {
+        "label": "CheckoutServiceServicer",
+        "kind": 6,
+        "importPath": "src.emailservice.demo_pb2_grpc",
+        "description": "src.emailservice.demo_pb2_grpc",
+        "peekOfCode": "class CheckoutServiceServicer(object):\n    \"\"\"-------------Checkout service-----------------\n    \"\"\"\n    def PlaceOrder(self, request, context):\n        \"\"\"Missing associated documentation comment in .proto file.\"\"\"\n        context.set_code(grpc.StatusCode.UNIMPLEMENTED)\n        context.set_details('Method not implemented!')\n        raise NotImplementedError('Method not implemented!')\ndef add_CheckoutServiceServicer_to_server(servicer, server):\n    rpc_method_handlers = {",
+        "detail": "src.emailservice.demo_pb2_grpc",
+        "documentation": {}
+    },
+    {
+        "label": "CheckoutService",
+        "kind": 6,
+        "importPath": "src.emailservice.demo_pb2_grpc",
+        "description": "src.emailservice.demo_pb2_grpc",
+        "peekOfCode": "class CheckoutService(object):\n    \"\"\"-------------Checkout service-----------------\n    \"\"\"\n    @staticmethod\n    def PlaceOrder(request,\n            target,\n            options=(),\n            channel_credentials=None,\n            call_credentials=None,\n            insecure=False,",
+        "detail": "src.emailservice.demo_pb2_grpc",
+        "documentation": {}
+    },
+    {
+        "label": "AdServiceStub",
+        "kind": 6,
+        "importPath": "src.emailservice.demo_pb2_grpc",
+        "description": "src.emailservice.demo_pb2_grpc",
+        "peekOfCode": "class AdServiceStub(object):\n    \"\"\"------------Ad service------------------\n    \"\"\"\n    def __init__(self, channel):\n        \"\"\"Constructor.\n        Args:\n            channel: A grpc.Channel.\n        \"\"\"\n        self.GetAds = channel.unary_unary(\n                '/hipstershop.AdService/GetAds',",
+        "detail": "src.emailservice.demo_pb2_grpc",
+        "documentation": {}
+    },
+    {
+        "label": "AdServiceServicer",
+        "kind": 6,
+        "importPath": "src.emailservice.demo_pb2_grpc",
+        "description": "src.emailservice.demo_pb2_grpc",
+        "peekOfCode": "class AdServiceServicer(object):\n    \"\"\"------------Ad service------------------\n    \"\"\"\n    def GetAds(self, request, context):\n        \"\"\"Missing associated documentation comment in .proto file.\"\"\"\n        context.set_code(grpc.StatusCode.UNIMPLEMENTED)\n        context.set_details('Method not implemented!')\n        raise NotImplementedError('Method not implemented!')\ndef add_AdServiceServicer_to_server(servicer, server):\n    rpc_method_handlers = {",
+        "detail": "src.emailservice.demo_pb2_grpc",
+        "documentation": {}
+    },
+    {
+        "label": "AdService",
+        "kind": 6,
+        "importPath": "src.emailservice.demo_pb2_grpc",
+        "description": "src.emailservice.demo_pb2_grpc",
+        "peekOfCode": "class AdService(object):\n    \"\"\"------------Ad service------------------\n    \"\"\"\n    @staticmethod\n    def GetAds(request,\n            target,\n            options=(),\n            channel_credentials=None,\n            call_credentials=None,\n            insecure=False,",
+        "detail": "src.emailservice.demo_pb2_grpc",
+        "documentation": {}
+    },
+    {
+        "label": "add_CartServiceServicer_to_server",
+        "kind": 2,
+        "importPath": "src.emailservice.demo_pb2_grpc",
+        "description": "src.emailservice.demo_pb2_grpc",
+        "peekOfCode": "def add_CartServiceServicer_to_server(servicer, server):\n    rpc_method_handlers = {\n            'AddItem': grpc.unary_unary_rpc_method_handler(\n                    servicer.AddItem,\n                    request_deserializer=demo__pb2.AddItemRequest.FromString,\n                    response_serializer=demo__pb2.Empty.SerializeToString,\n            ),\n            'GetCart': grpc.unary_unary_rpc_method_handler(\n                    servicer.GetCart,\n                    request_deserializer=demo__pb2.GetCartRequest.FromString,",
+        "detail": "src.emailservice.demo_pb2_grpc",
+        "documentation": {}
+    },
+    {
+        "label": "add_RecommendationServiceServicer_to_server",
+        "kind": 2,
+        "importPath": "src.emailservice.demo_pb2_grpc",
+        "description": "src.emailservice.demo_pb2_grpc",
+        "peekOfCode": "def add_RecommendationServiceServicer_to_server(servicer, server):\n    rpc_method_handlers = {\n            'ListRecommendations': grpc.unary_unary_rpc_method_handler(\n                    servicer.ListRecommendations,\n                    request_deserializer=demo__pb2.ListRecommendationsRequest.FromString,\n                    response_serializer=demo__pb2.ListRecommendationsResponse.SerializeToString,\n            ),\n    }\n    generic_handler = grpc.method_handlers_generic_handler(\n            'hipstershop.RecommendationService', rpc_method_handlers)",
+        "detail": "src.emailservice.demo_pb2_grpc",
+        "documentation": {}
+    },
+    {
+        "label": "add_ProductCatalogServiceServicer_to_server",
+        "kind": 2,
+        "importPath": "src.emailservice.demo_pb2_grpc",
+        "description": "src.emailservice.demo_pb2_grpc",
+        "peekOfCode": "def add_ProductCatalogServiceServicer_to_server(servicer, server):\n    rpc_method_handlers = {\n            'ListProducts': grpc.unary_unary_rpc_method_handler(\n                    servicer.ListProducts,\n                    request_deserializer=demo__pb2.Empty.FromString,\n                    response_serializer=demo__pb2.ListProductsResponse.SerializeToString,\n            ),\n            'GetProduct': grpc.unary_unary_rpc_method_handler(\n                    servicer.GetProduct,\n                    request_deserializer=demo__pb2.GetProductRequest.FromString,",
+        "detail": "src.emailservice.demo_pb2_grpc",
+        "documentation": {}
+    },
+    {
+        "label": "add_ShippingServiceServicer_to_server",
+        "kind": 2,
+        "importPath": "src.emailservice.demo_pb2_grpc",
+        "description": "src.emailservice.demo_pb2_grpc",
+        "peekOfCode": "def add_ShippingServiceServicer_to_server(servicer, server):\n    rpc_method_handlers = {\n            'GetQuote': grpc.unary_unary_rpc_method_handler(\n                    servicer.GetQuote,\n                    request_deserializer=demo__pb2.GetQuoteRequest.FromString,\n                    response_serializer=demo__pb2.GetQuoteResponse.SerializeToString,\n            ),\n            'ShipOrder': grpc.unary_unary_rpc_method_handler(\n                    servicer.ShipOrder,\n                    request_deserializer=demo__pb2.ShipOrderRequest.FromString,",
+        "detail": "src.emailservice.demo_pb2_grpc",
+        "documentation": {}
+    },
+    {
+        "label": "add_CurrencyServiceServicer_to_server",
+        "kind": 2,
+        "importPath": "src.emailservice.demo_pb2_grpc",
+        "description": "src.emailservice.demo_pb2_grpc",
+        "peekOfCode": "def add_CurrencyServiceServicer_to_server(servicer, server):\n    rpc_method_handlers = {\n            'GetSupportedCurrencies': grpc.unary_unary_rpc_method_handler(\n                    servicer.GetSupportedCurrencies,\n                    request_deserializer=demo__pb2.Empty.FromString,\n                    response_serializer=demo__pb2.GetSupportedCurrenciesResponse.SerializeToString,\n            ),\n            'Convert': grpc.unary_unary_rpc_method_handler(\n                    servicer.Convert,\n                    request_deserializer=demo__pb2.CurrencyConversionRequest.FromString,",
+        "detail": "src.emailservice.demo_pb2_grpc",
+        "documentation": {}
+    },
+    {
+        "label": "add_PaymentServiceServicer_to_server",
+        "kind": 2,
+        "importPath": "src.emailservice.demo_pb2_grpc",
+        "description": "src.emailservice.demo_pb2_grpc",
+        "peekOfCode": "def add_PaymentServiceServicer_to_server(servicer, server):\n    rpc_method_handlers = {\n            'Charge': grpc.unary_unary_rpc_method_handler(\n                    servicer.Charge,\n                    request_deserializer=demo__pb2.ChargeRequest.FromString,\n                    response_serializer=demo__pb2.ChargeResponse.SerializeToString,\n            ),\n    }\n    generic_handler = grpc.method_handlers_generic_handler(\n            'hipstershop.PaymentService', rpc_method_handlers)",
+        "detail": "src.emailservice.demo_pb2_grpc",
+        "documentation": {}
+    },
+    {
+        "label": "add_EmailServiceServicer_to_server",
+        "kind": 2,
+        "importPath": "src.emailservice.demo_pb2_grpc",
+        "description": "src.emailservice.demo_pb2_grpc",
+        "peekOfCode": "def add_EmailServiceServicer_to_server(servicer, server):\n    rpc_method_handlers = {\n            'SendOrderConfirmation': grpc.unary_unary_rpc_method_handler(\n                    servicer.SendOrderConfirmation,\n                    request_deserializer=demo__pb2.SendOrderConfirmationRequest.FromString,\n                    response_serializer=demo__pb2.Empty.SerializeToString,\n            ),\n    }\n    generic_handler = grpc.method_handlers_generic_handler(\n            'hipstershop.EmailService', rpc_method_handlers)",
+        "detail": "src.emailservice.demo_pb2_grpc",
+        "documentation": {}
+    },
+    {
+        "label": "add_CheckoutServiceServicer_to_server",
+        "kind": 2,
+        "importPath": "src.emailservice.demo_pb2_grpc",
+        "description": "src.emailservice.demo_pb2_grpc",
+        "peekOfCode": "def add_CheckoutServiceServicer_to_server(servicer, server):\n    rpc_method_handlers = {\n            'PlaceOrder': grpc.unary_unary_rpc_method_handler(\n                    servicer.PlaceOrder,\n                    request_deserializer=demo__pb2.PlaceOrderRequest.FromString,\n                    response_serializer=demo__pb2.PlaceOrderResponse.SerializeToString,\n            ),\n    }\n    generic_handler = grpc.method_handlers_generic_handler(\n            'hipstershop.CheckoutService', rpc_method_handlers)",
+        "detail": "src.emailservice.demo_pb2_grpc",
+        "documentation": {}
+    },
+    {
+        "label": "add_AdServiceServicer_to_server",
+        "kind": 2,
+        "importPath": "src.emailservice.demo_pb2_grpc",
+        "description": "src.emailservice.demo_pb2_grpc",
+        "peekOfCode": "def add_AdServiceServicer_to_server(servicer, server):\n    rpc_method_handlers = {\n            'GetAds': grpc.unary_unary_rpc_method_handler(\n                    servicer.GetAds,\n                    request_deserializer=demo__pb2.AdRequest.FromString,\n                    response_serializer=demo__pb2.AdResponse.SerializeToString,\n            ),\n    }\n    generic_handler = grpc.method_handlers_generic_handler(\n            'hipstershop.AdService', rpc_method_handlers)",
+        "detail": "src.emailservice.demo_pb2_grpc",
+        "documentation": {}
+    },
+    {
+        "label": "send_confirmation_email",
+        "kind": 2,
+        "importPath": "src.emailservice.email_client",
+        "description": "src.emailservice.email_client",
+        "peekOfCode": "def send_confirmation_email(email, order):\n  channel = grpc.insecure_channel('[::]:8080')\n  stub = demo_pb2_grpc.EmailServiceStub(channel)\n  try:\n    response = stub.SendOrderConfirmation(demo_pb2.SendOrderConfirmationRequest(\n      email = email,\n      order = order\n    ))\n    logger.info('Request sent.')\n  except grpc.RpcError as err:",
+        "detail": "src.emailservice.email_client",
+        "documentation": {}
+    },
+    {
+        "label": "logger",
+        "kind": 5,
+        "importPath": "src.emailservice.email_client",
+        "description": "src.emailservice.email_client",
+        "peekOfCode": "logger = getJSONLogger('emailservice-client')\ndef send_confirmation_email(email, order):\n  channel = grpc.insecure_channel('[::]:8080')\n  stub = demo_pb2_grpc.EmailServiceStub(channel)\n  try:\n    response = stub.SendOrderConfirmation(demo_pb2.SendOrderConfirmationRequest(\n      email = email,\n      order = order\n    ))\n    logger.info('Request sent.')",
+        "detail": "src.emailservice.email_client",
+        "documentation": {}
+    },
+    {
+        "label": "BaseEmailService",
+        "kind": 6,
+        "importPath": "src.emailservice.email_server",
+        "description": "src.emailservice.email_server",
+        "peekOfCode": "class BaseEmailService(demo_pb2_grpc.EmailServiceServicer):\n  def Check(self, request, context):\n    return health_pb2.HealthCheckResponse(\n      status=health_pb2.HealthCheckResponse.SERVING)\n  def Watch(self, request, context):\n    return health_pb2.HealthCheckResponse(\n      status=health_pb2.HealthCheckResponse.UNIMPLEMENTED)\nclass EmailService(BaseEmailService):\n  def __init__(self):\n    raise Exception('cloud mail client not implemented')",
+        "detail": "src.emailservice.email_server",
+        "documentation": {}
+    },
+    {
+        "label": "EmailService",
+        "kind": 6,
+        "importPath": "src.emailservice.email_server",
+        "description": "src.emailservice.email_server",
+        "peekOfCode": "class EmailService(BaseEmailService):\n  def __init__(self):\n    raise Exception('cloud mail client not implemented')\n    super().__init__()\n  @staticmethod\n  def send_email(client, email_address, content):\n    response = client.send_message(\n      sender = client.sender_path(project_id, region, sender_id),\n      envelope_from_authority = '',\n      header_from_authority = '',",
+        "detail": "src.emailservice.email_server",
+        "documentation": {}
+    },
+    {
+        "label": "DummyEmailService",
+        "kind": 6,
+        "importPath": "src.emailservice.email_server",
+        "description": "src.emailservice.email_server",
+        "peekOfCode": "class DummyEmailService(BaseEmailService):\n  def SendOrderConfirmation(self, request, context):\n    logger.info('A request to send order confirmation email to {} has been received.'.format(request.email))\n    return demo_pb2.Empty()\nclass HealthCheck():\n  def Check(self, request, context):\n    return health_pb2.HealthCheckResponse(\n      status=health_pb2.HealthCheckResponse.SERVING)\ndef start(dummy_mode):\n  server = grpc.server(futures.ThreadPoolExecutor(max_workers=10),)",
+        "detail": "src.emailservice.email_server",
+        "documentation": {}
+    },
+    {
+        "label": "HealthCheck",
+        "kind": 6,
+        "importPath": "src.emailservice.email_server",
+        "description": "src.emailservice.email_server",
+        "peekOfCode": "class HealthCheck():\n  def Check(self, request, context):\n    return health_pb2.HealthCheckResponse(\n      status=health_pb2.HealthCheckResponse.SERVING)\ndef start(dummy_mode):\n  server = grpc.server(futures.ThreadPoolExecutor(max_workers=10),)\n  service = None\n  if dummy_mode:\n    service = DummyEmailService()\n  else:",
+        "detail": "src.emailservice.email_server",
+        "documentation": {}
+    },
+    {
+        "label": "start",
+        "kind": 2,
+        "importPath": "src.emailservice.email_server",
+        "description": "src.emailservice.email_server",
+        "peekOfCode": "def start(dummy_mode):\n  server = grpc.server(futures.ThreadPoolExecutor(max_workers=10),)\n  service = None\n  if dummy_mode:\n    service = DummyEmailService()\n  else:\n    raise Exception('non-dummy mode not implemented yet')\n  demo_pb2_grpc.add_EmailServiceServicer_to_server(service, server)\n  health_pb2_grpc.add_HealthServicer_to_server(service, server)\n  port = os.environ.get('PORT', \"8080\")",
+        "detail": "src.emailservice.email_server",
+        "documentation": {}
+    },
+    {
+        "label": "initStackdriverProfiling",
+        "kind": 2,
+        "importPath": "src.emailservice.email_server",
+        "description": "src.emailservice.email_server",
+        "peekOfCode": "def initStackdriverProfiling():\n  project_id = None\n  try:\n    project_id = os.environ[\"GCP_PROJECT_ID\"]\n  except KeyError:\n    # Environment variable not set\n    pass\n  for retry in range(1,4):\n    try:\n      if project_id:",
+        "detail": "src.emailservice.email_server",
+        "documentation": {}
+    },
+    {
+        "label": "logger",
+        "kind": 5,
+        "importPath": "src.emailservice.email_server",
+        "description": "src.emailservice.email_server",
+        "peekOfCode": "logger = getJSONLogger('emailservice-server')\n# Loads confirmation email template from file\nenv = Environment(\n    loader=FileSystemLoader('templates'),\n    autoescape=select_autoescape(['html', 'xml'])\n)\ntemplate = env.get_template('confirmation.html')\nclass BaseEmailService(demo_pb2_grpc.EmailServiceServicer):\n  def Check(self, request, context):\n    return health_pb2.HealthCheckResponse(",
+        "detail": "src.emailservice.email_server",
+        "documentation": {}
+    },
+    {
+        "label": "env",
+        "kind": 5,
+        "importPath": "src.emailservice.email_server",
+        "description": "src.emailservice.email_server",
+        "peekOfCode": "env = Environment(\n    loader=FileSystemLoader('templates'),\n    autoescape=select_autoescape(['html', 'xml'])\n)\ntemplate = env.get_template('confirmation.html')\nclass BaseEmailService(demo_pb2_grpc.EmailServiceServicer):\n  def Check(self, request, context):\n    return health_pb2.HealthCheckResponse(\n      status=health_pb2.HealthCheckResponse.SERVING)\n  def Watch(self, request, context):",
+        "detail": "src.emailservice.email_server",
+        "documentation": {}
+    },
+    {
+        "label": "template",
+        "kind": 5,
+        "importPath": "src.emailservice.email_server",
+        "description": "src.emailservice.email_server",
+        "peekOfCode": "template = env.get_template('confirmation.html')\nclass BaseEmailService(demo_pb2_grpc.EmailServiceServicer):\n  def Check(self, request, context):\n    return health_pb2.HealthCheckResponse(\n      status=health_pb2.HealthCheckResponse.SERVING)\n  def Watch(self, request, context):\n    return health_pb2.HealthCheckResponse(\n      status=health_pb2.HealthCheckResponse.UNIMPLEMENTED)\nclass EmailService(BaseEmailService):\n  def __init__(self):",
+        "detail": "src.emailservice.email_server",
+        "documentation": {}
+    },
+    {
+        "label": "CustomJsonFormatter",
+        "kind": 6,
+        "importPath": "src.emailservice.logger",
+        "description": "src.emailservice.logger",
+        "peekOfCode": "class CustomJsonFormatter(jsonlogger.JsonFormatter):\n  def add_fields(self, log_record, record, message_dict):\n    super(CustomJsonFormatter, self).add_fields(log_record, record, message_dict)\n    if not log_record.get('timestamp'):\n      log_record['timestamp'] = record.created\n    if log_record.get('severity'):\n      log_record['severity'] = log_record['severity'].upper()\n    else:\n      log_record['severity'] = record.levelname\ndef getJSONLogger(name):",
+        "detail": "src.emailservice.logger",
+        "documentation": {}
+    },
+    {
+        "label": "getJSONLogger",
+        "kind": 2,
+        "importPath": "src.emailservice.logger",
+        "description": "src.emailservice.logger",
+        "peekOfCode": "def getJSONLogger(name):\n  logger = logging.getLogger(name)\n  handler = logging.StreamHandler(sys.stdout)\n  formatter = CustomJsonFormatter('%(timestamp)s %(severity)s %(name)s %(message)s')\n  handler.setFormatter(formatter)\n  logger.addHandler(handler)\n  logger.setLevel(logging.INFO)\n  logger.propagate = False\n  return logger",
+        "detail": "src.emailservice.logger",
+        "documentation": {}
+    },
+    {
+        "label": "UserBehavior",
+        "kind": 6,
+        "importPath": "src.loadgenerator.locustfile",
+        "description": "src.loadgenerator.locustfile",
+        "peekOfCode": "class UserBehavior(TaskSet):\n    def on_start(self):\n        index(self)\n    tasks = {index: 1,\n        setCurrency: 2,\n        browseProduct: 10,\n        addToCart: 2,\n        viewCart: 3,\n        checkout: 1}\nclass WebsiteUser(HttpUser):",
+        "detail": "src.loadgenerator.locustfile",
+        "documentation": {}
+    },
+    {
+        "label": "WebsiteUser",
+        "kind": 6,
+        "importPath": "src.loadgenerator.locustfile",
+        "description": "src.loadgenerator.locustfile",
+        "peekOfCode": "class WebsiteUser(HttpUser):\n    tasks = [UserBehavior]\n    wait_time = between(1, 10)",
+        "detail": "src.loadgenerator.locustfile",
+        "documentation": {}
+    },
+    {
+        "label": "index",
+        "kind": 2,
+        "importPath": "src.loadgenerator.locustfile",
+        "description": "src.loadgenerator.locustfile",
+        "peekOfCode": "def index(l):\n    l.client.get(\"/\")\ndef setCurrency(l):\n    currencies = ['EUR', 'USD', 'JPY', 'CAD']\n    l.client.post(\"/setCurrency\",\n        {'currency_code': random.choice(currencies)})\ndef browseProduct(l):\n    l.client.get(\"/product/\" + random.choice(products))\ndef viewCart(l):\n    l.client.get(\"/cart\")",
+        "detail": "src.loadgenerator.locustfile",
+        "documentation": {}
+    },
+    {
+        "label": "setCurrency",
+        "kind": 2,
+        "importPath": "src.loadgenerator.locustfile",
+        "description": "src.loadgenerator.locustfile",
+        "peekOfCode": "def setCurrency(l):\n    currencies = ['EUR', 'USD', 'JPY', 'CAD']\n    l.client.post(\"/setCurrency\",\n        {'currency_code': random.choice(currencies)})\ndef browseProduct(l):\n    l.client.get(\"/product/\" + random.choice(products))\ndef viewCart(l):\n    l.client.get(\"/cart\")\ndef addToCart(l):\n    product = random.choice(products)",
+        "detail": "src.loadgenerator.locustfile",
+        "documentation": {}
+    },
+    {
+        "label": "browseProduct",
+        "kind": 2,
+        "importPath": "src.loadgenerator.locustfile",
+        "description": "src.loadgenerator.locustfile",
+        "peekOfCode": "def browseProduct(l):\n    l.client.get(\"/product/\" + random.choice(products))\ndef viewCart(l):\n    l.client.get(\"/cart\")\ndef addToCart(l):\n    product = random.choice(products)\n    l.client.get(\"/product/\" + product)\n    l.client.post(\"/cart\", {\n        'product_id': product,\n        'quantity': random.choice([1,2,3,4,5,10])})",
+        "detail": "src.loadgenerator.locustfile",
+        "documentation": {}
+    },
+    {
+        "label": "viewCart",
+        "kind": 2,
+        "importPath": "src.loadgenerator.locustfile",
+        "description": "src.loadgenerator.locustfile",
+        "peekOfCode": "def viewCart(l):\n    l.client.get(\"/cart\")\ndef addToCart(l):\n    product = random.choice(products)\n    l.client.get(\"/product/\" + product)\n    l.client.post(\"/cart\", {\n        'product_id': product,\n        'quantity': random.choice([1,2,3,4,5,10])})\ndef checkout(l):\n    addToCart(l)",
+        "detail": "src.loadgenerator.locustfile",
+        "documentation": {}
+    },
+    {
+        "label": "addToCart",
+        "kind": 2,
+        "importPath": "src.loadgenerator.locustfile",
+        "description": "src.loadgenerator.locustfile",
+        "peekOfCode": "def addToCart(l):\n    product = random.choice(products)\n    l.client.get(\"/product/\" + product)\n    l.client.post(\"/cart\", {\n        'product_id': product,\n        'quantity': random.choice([1,2,3,4,5,10])})\ndef checkout(l):\n    addToCart(l)\n    l.client.post(\"/cart/checkout\", {\n        'email': 'someone@example.com',",
+        "detail": "src.loadgenerator.locustfile",
+        "documentation": {}
+    },
+    {
+        "label": "checkout",
+        "kind": 2,
+        "importPath": "src.loadgenerator.locustfile",
+        "description": "src.loadgenerator.locustfile",
+        "peekOfCode": "def checkout(l):\n    addToCart(l)\n    l.client.post(\"/cart/checkout\", {\n        'email': 'someone@example.com',\n        'street_address': '1600 Amphitheatre Parkway',\n        'zip_code': '94043',\n        'city': 'Mountain View',\n        'state': 'CA',\n        'country': 'United States',\n        'credit_card_number': '4432-8015-6152-0454',",
+        "detail": "src.loadgenerator.locustfile",
+        "documentation": {}
+    },
+    {
+        "label": "products",
+        "kind": 5,
+        "importPath": "src.loadgenerator.locustfile",
+        "description": "src.loadgenerator.locustfile",
+        "peekOfCode": "products = [\n    '0PUK6V6EV0',\n    '1YMWWN1N4O',\n    '2ZYFJ3GM2N',\n    '66VCHSJNUP',\n    '6E92ZMYYFZ',\n    '9SIQT8TOJO',\n    'L9ECAV7KIM',\n    'LS4PSXUNUM',\n    'OLJCESPC7Z']",
+        "detail": "src.loadgenerator.locustfile",
+        "documentation": {}
+    },
+    {
+        "label": "logger",
+        "kind": 5,
+        "importPath": "src.recommendationservice.client",
+        "description": "src.recommendationservice.client",
+        "peekOfCode": "logger = getJSONLogger('recommendationservice-server')\nif __name__ == \"__main__\":\n    # get port\n    if len(sys.argv) > 1:\n        port = sys.argv[1]\n    else:\n        port = \"8080\"\n    # set up server stub\n    channel = grpc.insecure_channel('localhost:'+port)\n    stub = demo_pb2_grpc.RecommendationServiceStub(channel)",
+        "detail": "src.recommendationservice.client",
+        "documentation": {}
+    },
+    {
+        "label": "_sym_db",
+        "kind": 5,
+        "importPath": "src.recommendationservice.demo_pb2",
+        "description": "src.recommendationservice.demo_pb2",
+        "peekOfCode": "_sym_db = _symbol_database.Default()\nDESCRIPTOR = _descriptor_pool.Default().AddSerializedFile(b'\\n\\ndemo.proto\\x12\\x0bhipstershop\\\"0\\n\\x08\\x43\\x61rtItem\\x12\\x12\\n\\nproduct_id\\x18\\x01 \\x01(\\t\\x12\\x10\\n\\x08quantity\\x18\\x02 \\x01(\\x05\\\"F\\n\\x0e\\x41\\x64\\x64ItemRequest\\x12\\x0f\\n\\x07user_id\\x18\\x01 \\x01(\\t\\x12#\\n\\x04item\\x18\\x02 \\x01(\\x0b\\x32\\x15.hipstershop.CartItem\\\"#\\n\\x10\\x45mptyCartRequest\\x12\\x0f\\n\\x07user_id\\x18\\x01 \\x01(\\t\\\"!\\n\\x0eGetCartRequest\\x12\\x0f\\n\\x07user_id\\x18\\x01 \\x01(\\t\\\"=\\n\\x04\\x43\\x61rt\\x12\\x0f\\n\\x07user_id\\x18\\x01 \\x01(\\t\\x12$\\n\\x05items\\x18\\x02 \\x03(\\x0b\\x32\\x15.hipstershop.CartItem\\\"\\x07\\n\\x05\\x45mpty\\\"B\\n\\x1aListRecommendationsRequest\\x12\\x0f\\n\\x07user_id\\x18\\x01 \\x01(\\t\\x12\\x13\\n\\x0bproduct_ids\\x18\\x02 \\x03(\\t\\\"2\\n\\x1bListRecommendationsResponse\\x12\\x13\\n\\x0bproduct_ids\\x18\\x01 \\x03(\\t\\\"\\x84\\x01\\n\\x07Product\\x12\\n\\n\\x02id\\x18\\x01 \\x01(\\t\\x12\\x0c\\n\\x04name\\x18\\x02 \\x01(\\t\\x12\\x13\\n\\x0b\\x64\\x65scription\\x18\\x03 \\x01(\\t\\x12\\x0f\\n\\x07picture\\x18\\x04 \\x01(\\t\\x12%\\n\\tprice_usd\\x18\\x05 \\x01(\\x0b\\x32\\x12.hipstershop.Money\\x12\\x12\\n\\ncategories\\x18\\x06 \\x03(\\t\\\">\\n\\x14ListProductsResponse\\x12&\\n\\x08products\\x18\\x01 \\x03(\\x0b\\x32\\x14.hipstershop.Product\\\"\\x1f\\n\\x11GetProductRequest\\x12\\n\\n\\x02id\\x18\\x01 \\x01(\\t\\\"&\\n\\x15SearchProductsRequest\\x12\\r\\n\\x05query\\x18\\x01 \\x01(\\t\\\"?\\n\\x16SearchProductsResponse\\x12%\\n\\x07results\\x18\\x01 \\x03(\\x0b\\x32\\x14.hipstershop.Product\\\"^\\n\\x0fGetQuoteRequest\\x12%\\n\\x07\\x61\\x64\\x64ress\\x18\\x01 \\x01(\\x0b\\x32\\x14.hipstershop.Address\\x12$\\n\\x05items\\x18\\x02 \\x03(\\x0b\\x32\\x15.hipstershop.CartItem\\\"8\\n\\x10GetQuoteResponse\\x12$\\n\\x08\\x63ost_usd\\x18\\x01 \\x01(\\x0b\\x32\\x12.hipstershop.Money\\\"_\\n\\x10ShipOrderRequest\\x12%\\n\\x07\\x61\\x64\\x64ress\\x18\\x01 \\x01(\\x0b\\x32\\x14.hipstershop.Address\\x12$\\n\\x05items\\x18\\x02 \\x03(\\x0b\\x32\\x15.hipstershop.CartItem\\\"(\\n\\x11ShipOrderResponse\\x12\\x13\\n\\x0btracking_id\\x18\\x01 \\x01(\\t\\\"a\\n\\x07\\x41\\x64\\x64ress\\x12\\x16\\n\\x0estreet_address\\x18\\x01 \\x01(\\t\\x12\\x0c\\n\\x04\\x63ity\\x18\\x02 \\x01(\\t\\x12\\r\\n\\x05state\\x18\\x03 \\x01(\\t\\x12\\x0f\\n\\x07\\x63ountry\\x18\\x04 \\x01(\\t\\x12\\x10\\n\\x08zip_code\\x18\\x05 \\x01(\\x05\\\"<\\n\\x05Money\\x12\\x15\\n\\rcurrency_code\\x18\\x01 \\x01(\\t\\x12\\r\\n\\x05units\\x18\\x02 \\x01(\\x03\\x12\\r\\n\\x05nanos\\x18\\x03 \\x01(\\x05\\\"8\\n\\x1eGetSupportedCurrenciesResponse\\x12\\x16\\n\\x0e\\x63urrency_codes\\x18\\x01 \\x03(\\t\\\"N\\n\\x19\\x43urrencyConversionRequest\\x12 \\n\\x04\\x66rom\\x18\\x01 \\x01(\\x0b\\x32\\x12.hipstershop.Money\\x12\\x0f\\n\\x07to_code\\x18\\x02 \\x01(\\t\\\"\\x90\\x01\\n\\x0e\\x43reditCardInfo\\x12\\x1a\\n\\x12\\x63redit_card_number\\x18\\x01 \\x01(\\t\\x12\\x17\\n\\x0f\\x63redit_card_cvv\\x18\\x02 \\x01(\\x05\\x12#\\n\\x1b\\x63redit_card_expiration_year\\x18\\x03 \\x01(\\x05\\x12$\\n\\x1c\\x63redit_card_expiration_month\\x18\\x04 \\x01(\\x05\\\"e\\n\\rChargeRequest\\x12\\\"\\n\\x06\\x61mount\\x18\\x01 \\x01(\\x0b\\x32\\x12.hipstershop.Money\\x12\\x30\\n\\x0b\\x63redit_card\\x18\\x02 \\x01(\\x0b\\x32\\x1b.hipstershop.CreditCardInfo\\\"(\\n\\x0e\\x43hargeResponse\\x12\\x16\\n\\x0etransaction_id\\x18\\x01 \\x01(\\t\\\"R\\n\\tOrderItem\\x12#\\n\\x04item\\x18\\x01 \\x01(\\x0b\\x32\\x15.hipstershop.CartItem\\x12 \\n\\x04\\x63ost\\x18\\x02 \\x01(\\x0b\\x32\\x12.hipstershop.Money\\\"\\xbf\\x01\\n\\x0bOrderResult\\x12\\x10\\n\\x08order_id\\x18\\x01 \\x01(\\t\\x12\\x1c\\n\\x14shipping_tracking_id\\x18\\x02 \\x01(\\t\\x12)\\n\\rshipping_cost\\x18\\x03 \\x01(\\x0b\\x32\\x12.hipstershop.Money\\x12.\\n\\x10shipping_address\\x18\\x04 \\x01(\\x0b\\x32\\x14.hipstershop.Address\\x12%\\n\\x05items\\x18\\x05 \\x03(\\x0b\\x32\\x16.hipstershop.OrderItem\\\"V\\n\\x1cSendOrderConfirmationRequest\\x12\\r\\n\\x05\\x65mail\\x18\\x01 \\x01(\\t\\x12\\'\\n\\x05order\\x18\\x02 \\x01(\\x0b\\x32\\x18.hipstershop.OrderResult\\\"\\xa3\\x01\\n\\x11PlaceOrderRequest\\x12\\x0f\\n\\x07user_id\\x18\\x01 \\x01(\\t\\x12\\x15\\n\\ruser_currency\\x18\\x02 \\x01(\\t\\x12%\\n\\x07\\x61\\x64\\x64ress\\x18\\x03 \\x01(\\x0b\\x32\\x14.hipstershop.Address\\x12\\r\\n\\x05\\x65mail\\x18\\x05 \\x01(\\t\\x12\\x30\\n\\x0b\\x63redit_card\\x18\\x06 \\x01(\\x0b\\x32\\x1b.hipstershop.CreditCardInfo\\\"=\\n\\x12PlaceOrderResponse\\x12\\'\\n\\x05order\\x18\\x01 \\x01(\\x0b\\x32\\x18.hipstershop.OrderResult\\\"!\\n\\tAdRequest\\x12\\x14\\n\\x0c\\x63ontext_keys\\x18\\x01 \\x03(\\t\\\"*\\n\\nAdResponse\\x12\\x1c\\n\\x03\\x61\\x64s\\x18\\x01 \\x03(\\x0b\\x32\\x0f.hipstershop.Ad\\\"(\\n\\x02\\x41\\x64\\x12\\x14\\n\\x0credirect_url\\x18\\x01 \\x01(\\t\\x12\\x0c\\n\\x04text\\x18\\x02 \\x01(\\t2\\xca\\x01\\n\\x0b\\x43\\x61rtService\\x12<\\n\\x07\\x41\\x64\\x64Item\\x12\\x1b.hipstershop.AddItemRequest\\x1a\\x12.hipstershop.Empty\\\"\\x00\\x12;\\n\\x07GetCart\\x12\\x1b.hipstershop.GetCartRequest\\x1a\\x11.hipstershop.Cart\\\"\\x00\\x12@\\n\\tEmptyCart\\x12\\x1d.hipstershop.EmptyCartRequest\\x1a\\x12.hipstershop.Empty\\\"\\x00\\x32\\x83\\x01\\n\\x15RecommendationService\\x12j\\n\\x13ListRecommendations\\x12\\'.hipstershop.ListRecommendationsRequest\\x1a(.hipstershop.ListRecommendationsResponse\\\"\\x00\\x32\\x83\\x02\\n\\x15ProductCatalogService\\x12G\\n\\x0cListProducts\\x12\\x12.hipstershop.Empty\\x1a!.hipstershop.ListProductsResponse\\\"\\x00\\x12\\x44\\n\\nGetProduct\\x12\\x1e.hipstershop.GetProductRequest\\x1a\\x14.hipstershop.Product\\\"\\x00\\x12[\\n\\x0eSearchProducts\\x12\\\".hipstershop.SearchProductsRequest\\x1a#.hipstershop.SearchProductsResponse\\\"\\x00\\x32\\xaa\\x01\\n\\x0fShippingService\\x12I\\n\\x08GetQuote\\x12\\x1c.hipstershop.GetQuoteRequest\\x1a\\x1d.hipstershop.GetQuoteResponse\\\"\\x00\\x12L\\n\\tShipOrder\\x12\\x1d.hipstershop.ShipOrderRequest\\x1a\\x1e.hipstershop.ShipOrderResponse\\\"\\x00\\x32\\xb7\\x01\\n\\x0f\\x43urrencyService\\x12[\\n\\x16GetSupportedCurrencies\\x12\\x12.hipstershop.Empty\\x1a+.hipstershop.GetSupportedCurrenciesResponse\\\"\\x00\\x12G\\n\\x07\\x43onvert\\x12&.hipstershop.CurrencyConversionRequest\\x1a\\x12.hipstershop.Money\\\"\\x00\\x32U\\n\\x0ePaymentService\\x12\\x43\\n\\x06\\x43harge\\x12\\x1a.hipstershop.ChargeRequest\\x1a\\x1b.hipstershop.ChargeResponse\\\"\\x00\\x32h\\n\\x0c\\x45mailService\\x12X\\n\\x15SendOrderConfirmation\\x12).hipstershop.SendOrderConfirmationRequest\\x1a\\x12.hipstershop.Empty\\\"\\x00\\x32\\x62\\n\\x0f\\x43heckoutService\\x12O\\n\\nPlaceOrder\\x12\\x1e.hipstershop.PlaceOrderRequest\\x1a\\x1f.hipstershop.PlaceOrderResponse\\\"\\x00\\x32H\\n\\tAdService\\x12;\\n\\x06GetAds\\x12\\x16.hipstershop.AdRequest\\x1a\\x17.hipstershop.AdResponse\\\"\\x00\\x62\\x06proto3')\n_builder.BuildMessageAndEnumDescriptors(DESCRIPTOR, globals())\n_builder.BuildTopDescriptorsAndMessages(DESCRIPTOR, 'demo_pb2', globals())\nif _descriptor._USE_C_DESCRIPTORS == False:\n  DESCRIPTOR._options = None\n  _CARTITEM._serialized_start=27\n  _CARTITEM._serialized_end=75\n  _ADDITEMREQUEST._serialized_start=77\n  _ADDITEMREQUEST._serialized_end=147",
+        "detail": "src.recommendationservice.demo_pb2",
+        "documentation": {}
+    },
+    {
+        "label": "DESCRIPTOR",
+        "kind": 5,
+        "importPath": "src.recommendationservice.demo_pb2",
+        "description": "src.recommendationservice.demo_pb2",
+        "peekOfCode": "DESCRIPTOR = _descriptor_pool.Default().AddSerializedFile(b'\\n\\ndemo.proto\\x12\\x0bhipstershop\\\"0\\n\\x08\\x43\\x61rtItem\\x12\\x12\\n\\nproduct_id\\x18\\x01 \\x01(\\t\\x12\\x10\\n\\x08quantity\\x18\\x02 \\x01(\\x05\\\"F\\n\\x0e\\x41\\x64\\x64ItemRequest\\x12\\x0f\\n\\x07user_id\\x18\\x01 \\x01(\\t\\x12#\\n\\x04item\\x18\\x02 \\x01(\\x0b\\x32\\x15.hipstershop.CartItem\\\"#\\n\\x10\\x45mptyCartRequest\\x12\\x0f\\n\\x07user_id\\x18\\x01 \\x01(\\t\\\"!\\n\\x0eGetCartRequest\\x12\\x0f\\n\\x07user_id\\x18\\x01 \\x01(\\t\\\"=\\n\\x04\\x43\\x61rt\\x12\\x0f\\n\\x07user_id\\x18\\x01 \\x01(\\t\\x12$\\n\\x05items\\x18\\x02 \\x03(\\x0b\\x32\\x15.hipstershop.CartItem\\\"\\x07\\n\\x05\\x45mpty\\\"B\\n\\x1aListRecommendationsRequest\\x12\\x0f\\n\\x07user_id\\x18\\x01 \\x01(\\t\\x12\\x13\\n\\x0bproduct_ids\\x18\\x02 \\x03(\\t\\\"2\\n\\x1bListRecommendationsResponse\\x12\\x13\\n\\x0bproduct_ids\\x18\\x01 \\x03(\\t\\\"\\x84\\x01\\n\\x07Product\\x12\\n\\n\\x02id\\x18\\x01 \\x01(\\t\\x12\\x0c\\n\\x04name\\x18\\x02 \\x01(\\t\\x12\\x13\\n\\x0b\\x64\\x65scription\\x18\\x03 \\x01(\\t\\x12\\x0f\\n\\x07picture\\x18\\x04 \\x01(\\t\\x12%\\n\\tprice_usd\\x18\\x05 \\x01(\\x0b\\x32\\x12.hipstershop.Money\\x12\\x12\\n\\ncategories\\x18\\x06 \\x03(\\t\\\">\\n\\x14ListProductsResponse\\x12&\\n\\x08products\\x18\\x01 \\x03(\\x0b\\x32\\x14.hipstershop.Product\\\"\\x1f\\n\\x11GetProductRequest\\x12\\n\\n\\x02id\\x18\\x01 \\x01(\\t\\\"&\\n\\x15SearchProductsRequest\\x12\\r\\n\\x05query\\x18\\x01 \\x01(\\t\\\"?\\n\\x16SearchProductsResponse\\x12%\\n\\x07results\\x18\\x01 \\x03(\\x0b\\x32\\x14.hipstershop.Product\\\"^\\n\\x0fGetQuoteRequest\\x12%\\n\\x07\\x61\\x64\\x64ress\\x18\\x01 \\x01(\\x0b\\x32\\x14.hipstershop.Address\\x12$\\n\\x05items\\x18\\x02 \\x03(\\x0b\\x32\\x15.hipstershop.CartItem\\\"8\\n\\x10GetQuoteResponse\\x12$\\n\\x08\\x63ost_usd\\x18\\x01 \\x01(\\x0b\\x32\\x12.hipstershop.Money\\\"_\\n\\x10ShipOrderRequest\\x12%\\n\\x07\\x61\\x64\\x64ress\\x18\\x01 \\x01(\\x0b\\x32\\x14.hipstershop.Address\\x12$\\n\\x05items\\x18\\x02 \\x03(\\x0b\\x32\\x15.hipstershop.CartItem\\\"(\\n\\x11ShipOrderResponse\\x12\\x13\\n\\x0btracking_id\\x18\\x01 \\x01(\\t\\\"a\\n\\x07\\x41\\x64\\x64ress\\x12\\x16\\n\\x0estreet_address\\x18\\x01 \\x01(\\t\\x12\\x0c\\n\\x04\\x63ity\\x18\\x02 \\x01(\\t\\x12\\r\\n\\x05state\\x18\\x03 \\x01(\\t\\x12\\x0f\\n\\x07\\x63ountry\\x18\\x04 \\x01(\\t\\x12\\x10\\n\\x08zip_code\\x18\\x05 \\x01(\\x05\\\"<\\n\\x05Money\\x12\\x15\\n\\rcurrency_code\\x18\\x01 \\x01(\\t\\x12\\r\\n\\x05units\\x18\\x02 \\x01(\\x03\\x12\\r\\n\\x05nanos\\x18\\x03 \\x01(\\x05\\\"8\\n\\x1eGetSupportedCurrenciesResponse\\x12\\x16\\n\\x0e\\x63urrency_codes\\x18\\x01 \\x03(\\t\\\"N\\n\\x19\\x43urrencyConversionRequest\\x12 \\n\\x04\\x66rom\\x18\\x01 \\x01(\\x0b\\x32\\x12.hipstershop.Money\\x12\\x0f\\n\\x07to_code\\x18\\x02 \\x01(\\t\\\"\\x90\\x01\\n\\x0e\\x43reditCardInfo\\x12\\x1a\\n\\x12\\x63redit_card_number\\x18\\x01 \\x01(\\t\\x12\\x17\\n\\x0f\\x63redit_card_cvv\\x18\\x02 \\x01(\\x05\\x12#\\n\\x1b\\x63redit_card_expiration_year\\x18\\x03 \\x01(\\x05\\x12$\\n\\x1c\\x63redit_card_expiration_month\\x18\\x04 \\x01(\\x05\\\"e\\n\\rChargeRequest\\x12\\\"\\n\\x06\\x61mount\\x18\\x01 \\x01(\\x0b\\x32\\x12.hipstershop.Money\\x12\\x30\\n\\x0b\\x63redit_card\\x18\\x02 \\x01(\\x0b\\x32\\x1b.hipstershop.CreditCardInfo\\\"(\\n\\x0e\\x43hargeResponse\\x12\\x16\\n\\x0etransaction_id\\x18\\x01 \\x01(\\t\\\"R\\n\\tOrderItem\\x12#\\n\\x04item\\x18\\x01 \\x01(\\x0b\\x32\\x15.hipstershop.CartItem\\x12 \\n\\x04\\x63ost\\x18\\x02 \\x01(\\x0b\\x32\\x12.hipstershop.Money\\\"\\xbf\\x01\\n\\x0bOrderResult\\x12\\x10\\n\\x08order_id\\x18\\x01 \\x01(\\t\\x12\\x1c\\n\\x14shipping_tracking_id\\x18\\x02 \\x01(\\t\\x12)\\n\\rshipping_cost\\x18\\x03 \\x01(\\x0b\\x32\\x12.hipstershop.Money\\x12.\\n\\x10shipping_address\\x18\\x04 \\x01(\\x0b\\x32\\x14.hipstershop.Address\\x12%\\n\\x05items\\x18\\x05 \\x03(\\x0b\\x32\\x16.hipstershop.OrderItem\\\"V\\n\\x1cSendOrderConfirmationRequest\\x12\\r\\n\\x05\\x65mail\\x18\\x01 \\x01(\\t\\x12\\'\\n\\x05order\\x18\\x02 \\x01(\\x0b\\x32\\x18.hipstershop.OrderResult\\\"\\xa3\\x01\\n\\x11PlaceOrderRequest\\x12\\x0f\\n\\x07user_id\\x18\\x01 \\x01(\\t\\x12\\x15\\n\\ruser_currency\\x18\\x02 \\x01(\\t\\x12%\\n\\x07\\x61\\x64\\x64ress\\x18\\x03 \\x01(\\x0b\\x32\\x14.hipstershop.Address\\x12\\r\\n\\x05\\x65mail\\x18\\x05 \\x01(\\t\\x12\\x30\\n\\x0b\\x63redit_card\\x18\\x06 \\x01(\\x0b\\x32\\x1b.hipstershop.CreditCardInfo\\\"=\\n\\x12PlaceOrderResponse\\x12\\'\\n\\x05order\\x18\\x01 \\x01(\\x0b\\x32\\x18.hipstershop.OrderResult\\\"!\\n\\tAdRequest\\x12\\x14\\n\\x0c\\x63ontext_keys\\x18\\x01 \\x03(\\t\\\"*\\n\\nAdResponse\\x12\\x1c\\n\\x03\\x61\\x64s\\x18\\x01 \\x03(\\x0b\\x32\\x0f.hipstershop.Ad\\\"(\\n\\x02\\x41\\x64\\x12\\x14\\n\\x0credirect_url\\x18\\x01 \\x01(\\t\\x12\\x0c\\n\\x04text\\x18\\x02 \\x01(\\t2\\xca\\x01\\n\\x0b\\x43\\x61rtService\\x12<\\n\\x07\\x41\\x64\\x64Item\\x12\\x1b.hipstershop.AddItemRequest\\x1a\\x12.hipstershop.Empty\\\"\\x00\\x12;\\n\\x07GetCart\\x12\\x1b.hipstershop.GetCartRequest\\x1a\\x11.hipstershop.Cart\\\"\\x00\\x12@\\n\\tEmptyCart\\x12\\x1d.hipstershop.EmptyCartRequest\\x1a\\x12.hipstershop.Empty\\\"\\x00\\x32\\x83\\x01\\n\\x15RecommendationService\\x12j\\n\\x13ListRecommendations\\x12\\'.hipstershop.ListRecommendationsRequest\\x1a(.hipstershop.ListRecommendationsResponse\\\"\\x00\\x32\\x83\\x02\\n\\x15ProductCatalogService\\x12G\\n\\x0cListProducts\\x12\\x12.hipstershop.Empty\\x1a!.hipstershop.ListProductsResponse\\\"\\x00\\x12\\x44\\n\\nGetProduct\\x12\\x1e.hipstershop.GetProductRequest\\x1a\\x14.hipstershop.Product\\\"\\x00\\x12[\\n\\x0eSearchProducts\\x12\\\".hipstershop.SearchProductsRequest\\x1a#.hipstershop.SearchProductsResponse\\\"\\x00\\x32\\xaa\\x01\\n\\x0fShippingService\\x12I\\n\\x08GetQuote\\x12\\x1c.hipstershop.GetQuoteRequest\\x1a\\x1d.hipstershop.GetQuoteResponse\\\"\\x00\\x12L\\n\\tShipOrder\\x12\\x1d.hipstershop.ShipOrderRequest\\x1a\\x1e.hipstershop.ShipOrderResponse\\\"\\x00\\x32\\xb7\\x01\\n\\x0f\\x43urrencyService\\x12[\\n\\x16GetSupportedCurrencies\\x12\\x12.hipstershop.Empty\\x1a+.hipstershop.GetSupportedCurrenciesResponse\\\"\\x00\\x12G\\n\\x07\\x43onvert\\x12&.hipstershop.CurrencyConversionRequest\\x1a\\x12.hipstershop.Money\\\"\\x00\\x32U\\n\\x0ePaymentService\\x12\\x43\\n\\x06\\x43harge\\x12\\x1a.hipstershop.ChargeRequest\\x1a\\x1b.hipstershop.ChargeResponse\\\"\\x00\\x32h\\n\\x0c\\x45mailService\\x12X\\n\\x15SendOrderConfirmation\\x12).hipstershop.SendOrderConfirmationRequest\\x1a\\x12.hipstershop.Empty\\\"\\x00\\x32\\x62\\n\\x0f\\x43heckoutService\\x12O\\n\\nPlaceOrder\\x12\\x1e.hipstershop.PlaceOrderRequest\\x1a\\x1f.hipstershop.PlaceOrderResponse\\\"\\x00\\x32H\\n\\tAdService\\x12;\\n\\x06GetAds\\x12\\x16.hipstershop.AdRequest\\x1a\\x17.hipstershop.AdResponse\\\"\\x00\\x62\\x06proto3')\n_builder.BuildMessageAndEnumDescriptors(DESCRIPTOR, globals())\n_builder.BuildTopDescriptorsAndMessages(DESCRIPTOR, 'demo_pb2', globals())\nif _descriptor._USE_C_DESCRIPTORS == False:\n  DESCRIPTOR._options = None\n  _CARTITEM._serialized_start=27\n  _CARTITEM._serialized_end=75\n  _ADDITEMREQUEST._serialized_start=77\n  _ADDITEMREQUEST._serialized_end=147\n  _EMPTYCARTREQUEST._serialized_start=149",
+        "detail": "src.recommendationservice.demo_pb2",
+        "documentation": {}
+    },
+    {
+        "label": "CartServiceStub",
+        "kind": 6,
+        "importPath": "src.recommendationservice.demo_pb2_grpc",
+        "description": "src.recommendationservice.demo_pb2_grpc",
+        "peekOfCode": "class CartServiceStub(object):\n    \"\"\"-----------------Cart service-----------------\n    \"\"\"\n    def __init__(self, channel):\n        \"\"\"Constructor.\n        Args:\n            channel: A grpc.Channel.\n        \"\"\"\n        self.AddItem = channel.unary_unary(\n                '/hipstershop.CartService/AddItem',",
+        "detail": "src.recommendationservice.demo_pb2_grpc",
+        "documentation": {}
+    },
+    {
+        "label": "CartServiceServicer",
+        "kind": 6,
+        "importPath": "src.recommendationservice.demo_pb2_grpc",
+        "description": "src.recommendationservice.demo_pb2_grpc",
+        "peekOfCode": "class CartServiceServicer(object):\n    \"\"\"-----------------Cart service-----------------\n    \"\"\"\n    def AddItem(self, request, context):\n        \"\"\"Missing associated documentation comment in .proto file.\"\"\"\n        context.set_code(grpc.StatusCode.UNIMPLEMENTED)\n        context.set_details('Method not implemented!')\n        raise NotImplementedError('Method not implemented!')\n    def GetCart(self, request, context):\n        \"\"\"Missing associated documentation comment in .proto file.\"\"\"",
+        "detail": "src.recommendationservice.demo_pb2_grpc",
+        "documentation": {}
+    },
+    {
+        "label": "CartService",
+        "kind": 6,
+        "importPath": "src.recommendationservice.demo_pb2_grpc",
+        "description": "src.recommendationservice.demo_pb2_grpc",
+        "peekOfCode": "class CartService(object):\n    \"\"\"-----------------Cart service-----------------\n    \"\"\"\n    @staticmethod\n    def AddItem(request,\n            target,\n            options=(),\n            channel_credentials=None,\n            call_credentials=None,\n            insecure=False,",
+        "detail": "src.recommendationservice.demo_pb2_grpc",
+        "documentation": {}
+    },
+    {
+        "label": "RecommendationServiceStub",
+        "kind": 6,
+        "importPath": "src.recommendationservice.demo_pb2_grpc",
+        "description": "src.recommendationservice.demo_pb2_grpc",
+        "peekOfCode": "class RecommendationServiceStub(object):\n    \"\"\"---------------Recommendation service----------\n    \"\"\"\n    def __init__(self, channel):\n        \"\"\"Constructor.\n        Args:\n            channel: A grpc.Channel.\n        \"\"\"\n        self.ListRecommendations = channel.unary_unary(\n                '/hipstershop.RecommendationService/ListRecommendations',",
+        "detail": "src.recommendationservice.demo_pb2_grpc",
+        "documentation": {}
+    },
+    {
+        "label": "RecommendationServiceServicer",
+        "kind": 6,
+        "importPath": "src.recommendationservice.demo_pb2_grpc",
+        "description": "src.recommendationservice.demo_pb2_grpc",
+        "peekOfCode": "class RecommendationServiceServicer(object):\n    \"\"\"---------------Recommendation service----------\n    \"\"\"\n    def ListRecommendations(self, request, context):\n        \"\"\"Missing associated documentation comment in .proto file.\"\"\"\n        context.set_code(grpc.StatusCode.UNIMPLEMENTED)\n        context.set_details('Method not implemented!')\n        raise NotImplementedError('Method not implemented!')\ndef add_RecommendationServiceServicer_to_server(servicer, server):\n    rpc_method_handlers = {",
+        "detail": "src.recommendationservice.demo_pb2_grpc",
+        "documentation": {}
+    },
+    {
+        "label": "RecommendationService",
+        "kind": 6,
+        "importPath": "src.recommendationservice.demo_pb2_grpc",
+        "description": "src.recommendationservice.demo_pb2_grpc",
+        "peekOfCode": "class RecommendationService(object):\n    \"\"\"---------------Recommendation service----------\n    \"\"\"\n    @staticmethod\n    def ListRecommendations(request,\n            target,\n            options=(),\n            channel_credentials=None,\n            call_credentials=None,\n            insecure=False,",
+        "detail": "src.recommendationservice.demo_pb2_grpc",
+        "documentation": {}
+    },
+    {
+        "label": "ProductCatalogServiceStub",
+        "kind": 6,
+        "importPath": "src.recommendationservice.demo_pb2_grpc",
+        "description": "src.recommendationservice.demo_pb2_grpc",
+        "peekOfCode": "class ProductCatalogServiceStub(object):\n    \"\"\"---------------Product Catalog----------------\n    \"\"\"\n    def __init__(self, channel):\n        \"\"\"Constructor.\n        Args:\n            channel: A grpc.Channel.\n        \"\"\"\n        self.ListProducts = channel.unary_unary(\n                '/hipstershop.ProductCatalogService/ListProducts',",
+        "detail": "src.recommendationservice.demo_pb2_grpc",
+        "documentation": {}
+    },
+    {
+        "label": "ProductCatalogServiceServicer",
+        "kind": 6,
+        "importPath": "src.recommendationservice.demo_pb2_grpc",
+        "description": "src.recommendationservice.demo_pb2_grpc",
+        "peekOfCode": "class ProductCatalogServiceServicer(object):\n    \"\"\"---------------Product Catalog----------------\n    \"\"\"\n    def ListProducts(self, request, context):\n        \"\"\"Missing associated documentation comment in .proto file.\"\"\"\n        context.set_code(grpc.StatusCode.UNIMPLEMENTED)\n        context.set_details('Method not implemented!')\n        raise NotImplementedError('Method not implemented!')\n    def GetProduct(self, request, context):\n        \"\"\"Missing associated documentation comment in .proto file.\"\"\"",
+        "detail": "src.recommendationservice.demo_pb2_grpc",
+        "documentation": {}
+    },
+    {
+        "label": "ProductCatalogService",
+        "kind": 6,
+        "importPath": "src.recommendationservice.demo_pb2_grpc",
+        "description": "src.recommendationservice.demo_pb2_grpc",
+        "peekOfCode": "class ProductCatalogService(object):\n    \"\"\"---------------Product Catalog----------------\n    \"\"\"\n    @staticmethod\n    def ListProducts(request,\n            target,\n            options=(),\n            channel_credentials=None,\n            call_credentials=None,\n            insecure=False,",
+        "detail": "src.recommendationservice.demo_pb2_grpc",
+        "documentation": {}
+    },
+    {
+        "label": "ShippingServiceStub",
+        "kind": 6,
+        "importPath": "src.recommendationservice.demo_pb2_grpc",
+        "description": "src.recommendationservice.demo_pb2_grpc",
+        "peekOfCode": "class ShippingServiceStub(object):\n    \"\"\"---------------Shipping Service----------\n    \"\"\"\n    def __init__(self, channel):\n        \"\"\"Constructor.\n        Args:\n            channel: A grpc.Channel.\n        \"\"\"\n        self.GetQuote = channel.unary_unary(\n                '/hipstershop.ShippingService/GetQuote',",
+        "detail": "src.recommendationservice.demo_pb2_grpc",
+        "documentation": {}
+    },
+    {
+        "label": "ShippingServiceServicer",
+        "kind": 6,
+        "importPath": "src.recommendationservice.demo_pb2_grpc",
+        "description": "src.recommendationservice.demo_pb2_grpc",
+        "peekOfCode": "class ShippingServiceServicer(object):\n    \"\"\"---------------Shipping Service----------\n    \"\"\"\n    def GetQuote(self, request, context):\n        \"\"\"Missing associated documentation comment in .proto file.\"\"\"\n        context.set_code(grpc.StatusCode.UNIMPLEMENTED)\n        context.set_details('Method not implemented!')\n        raise NotImplementedError('Method not implemented!')\n    def ShipOrder(self, request, context):\n        \"\"\"Missing associated documentation comment in .proto file.\"\"\"",
+        "detail": "src.recommendationservice.demo_pb2_grpc",
+        "documentation": {}
+    },
+    {
+        "label": "ShippingService",
+        "kind": 6,
+        "importPath": "src.recommendationservice.demo_pb2_grpc",
+        "description": "src.recommendationservice.demo_pb2_grpc",
+        "peekOfCode": "class ShippingService(object):\n    \"\"\"---------------Shipping Service----------\n    \"\"\"\n    @staticmethod\n    def GetQuote(request,\n            target,\n            options=(),\n            channel_credentials=None,\n            call_credentials=None,\n            insecure=False,",
+        "detail": "src.recommendationservice.demo_pb2_grpc",
+        "documentation": {}
+    },
+    {
+        "label": "CurrencyServiceStub",
+        "kind": 6,
+        "importPath": "src.recommendationservice.demo_pb2_grpc",
+        "description": "src.recommendationservice.demo_pb2_grpc",
+        "peekOfCode": "class CurrencyServiceStub(object):\n    \"\"\"-----------------Currency service-----------------\n    \"\"\"\n    def __init__(self, channel):\n        \"\"\"Constructor.\n        Args:\n            channel: A grpc.Channel.\n        \"\"\"\n        self.GetSupportedCurrencies = channel.unary_unary(\n                '/hipstershop.CurrencyService/GetSupportedCurrencies',",
+        "detail": "src.recommendationservice.demo_pb2_grpc",
+        "documentation": {}
+    },
+    {
+        "label": "CurrencyServiceServicer",
+        "kind": 6,
+        "importPath": "src.recommendationservice.demo_pb2_grpc",
+        "description": "src.recommendationservice.demo_pb2_grpc",
+        "peekOfCode": "class CurrencyServiceServicer(object):\n    \"\"\"-----------------Currency service-----------------\n    \"\"\"\n    def GetSupportedCurrencies(self, request, context):\n        \"\"\"Missing associated documentation comment in .proto file.\"\"\"\n        context.set_code(grpc.StatusCode.UNIMPLEMENTED)\n        context.set_details('Method not implemented!')\n        raise NotImplementedError('Method not implemented!')\n    def Convert(self, request, context):\n        \"\"\"Missing associated documentation comment in .proto file.\"\"\"",
+        "detail": "src.recommendationservice.demo_pb2_grpc",
+        "documentation": {}
+    },
+    {
+        "label": "CurrencyService",
+        "kind": 6,
+        "importPath": "src.recommendationservice.demo_pb2_grpc",
+        "description": "src.recommendationservice.demo_pb2_grpc",
+        "peekOfCode": "class CurrencyService(object):\n    \"\"\"-----------------Currency service-----------------\n    \"\"\"\n    @staticmethod\n    def GetSupportedCurrencies(request,\n            target,\n            options=(),\n            channel_credentials=None,\n            call_credentials=None,\n            insecure=False,",
+        "detail": "src.recommendationservice.demo_pb2_grpc",
+        "documentation": {}
+    },
+    {
+        "label": "PaymentServiceStub",
+        "kind": 6,
+        "importPath": "src.recommendationservice.demo_pb2_grpc",
+        "description": "src.recommendationservice.demo_pb2_grpc",
+        "peekOfCode": "class PaymentServiceStub(object):\n    \"\"\"-------------Payment service-----------------\n    \"\"\"\n    def __init__(self, channel):\n        \"\"\"Constructor.\n        Args:\n            channel: A grpc.Channel.\n        \"\"\"\n        self.Charge = channel.unary_unary(\n                '/hipstershop.PaymentService/Charge',",
+        "detail": "src.recommendationservice.demo_pb2_grpc",
+        "documentation": {}
+    },
+    {
+        "label": "PaymentServiceServicer",
+        "kind": 6,
+        "importPath": "src.recommendationservice.demo_pb2_grpc",
+        "description": "src.recommendationservice.demo_pb2_grpc",
+        "peekOfCode": "class PaymentServiceServicer(object):\n    \"\"\"-------------Payment service-----------------\n    \"\"\"\n    def Charge(self, request, context):\n        \"\"\"Missing associated documentation comment in .proto file.\"\"\"\n        context.set_code(grpc.StatusCode.UNIMPLEMENTED)\n        context.set_details('Method not implemented!')\n        raise NotImplementedError('Method not implemented!')\ndef add_PaymentServiceServicer_to_server(servicer, server):\n    rpc_method_handlers = {",
+        "detail": "src.recommendationservice.demo_pb2_grpc",
+        "documentation": {}
+    },
+    {
+        "label": "PaymentService",
+        "kind": 6,
+        "importPath": "src.recommendationservice.demo_pb2_grpc",
+        "description": "src.recommendationservice.demo_pb2_grpc",
+        "peekOfCode": "class PaymentService(object):\n    \"\"\"-------------Payment service-----------------\n    \"\"\"\n    @staticmethod\n    def Charge(request,\n            target,\n            options=(),\n            channel_credentials=None,\n            call_credentials=None,\n            insecure=False,",
+        "detail": "src.recommendationservice.demo_pb2_grpc",
+        "documentation": {}
+    },
+    {
+        "label": "EmailServiceStub",
+        "kind": 6,
+        "importPath": "src.recommendationservice.demo_pb2_grpc",
+        "description": "src.recommendationservice.demo_pb2_grpc",
+        "peekOfCode": "class EmailServiceStub(object):\n    \"\"\"-------------Email service-----------------\n    \"\"\"\n    def __init__(self, channel):\n        \"\"\"Constructor.\n        Args:\n            channel: A grpc.Channel.\n        \"\"\"\n        self.SendOrderConfirmation = channel.unary_unary(\n                '/hipstershop.EmailService/SendOrderConfirmation',",
+        "detail": "src.recommendationservice.demo_pb2_grpc",
+        "documentation": {}
+    },
+    {
+        "label": "EmailServiceServicer",
+        "kind": 6,
+        "importPath": "src.recommendationservice.demo_pb2_grpc",
+        "description": "src.recommendationservice.demo_pb2_grpc",
+        "peekOfCode": "class EmailServiceServicer(object):\n    \"\"\"-------------Email service-----------------\n    \"\"\"\n    def SendOrderConfirmation(self, request, context):\n        \"\"\"Missing associated documentation comment in .proto file.\"\"\"\n        context.set_code(grpc.StatusCode.UNIMPLEMENTED)\n        context.set_details('Method not implemented!')\n        raise NotImplementedError('Method not implemented!')\ndef add_EmailServiceServicer_to_server(servicer, server):\n    rpc_method_handlers = {",
+        "detail": "src.recommendationservice.demo_pb2_grpc",
+        "documentation": {}
+    },
+    {
+        "label": "EmailService",
+        "kind": 6,
+        "importPath": "src.recommendationservice.demo_pb2_grpc",
+        "description": "src.recommendationservice.demo_pb2_grpc",
+        "peekOfCode": "class EmailService(object):\n    \"\"\"-------------Email service-----------------\n    \"\"\"\n    @staticmethod\n    def SendOrderConfirmation(request,\n            target,\n            options=(),\n            channel_credentials=None,\n            call_credentials=None,\n            insecure=False,",
+        "detail": "src.recommendationservice.demo_pb2_grpc",
+        "documentation": {}
+    },
+    {
+        "label": "CheckoutServiceStub",
+        "kind": 6,
+        "importPath": "src.recommendationservice.demo_pb2_grpc",
+        "description": "src.recommendationservice.demo_pb2_grpc",
+        "peekOfCode": "class CheckoutServiceStub(object):\n    \"\"\"-------------Checkout service-----------------\n    \"\"\"\n    def __init__(self, channel):\n        \"\"\"Constructor.\n        Args:\n            channel: A grpc.Channel.\n        \"\"\"\n        self.PlaceOrder = channel.unary_unary(\n                '/hipstershop.CheckoutService/PlaceOrder',",
+        "detail": "src.recommendationservice.demo_pb2_grpc",
+        "documentation": {}
+    },
+    {
+        "label": "CheckoutServiceServicer",
+        "kind": 6,
+        "importPath": "src.recommendationservice.demo_pb2_grpc",
+        "description": "src.recommendationservice.demo_pb2_grpc",
+        "peekOfCode": "class CheckoutServiceServicer(object):\n    \"\"\"-------------Checkout service-----------------\n    \"\"\"\n    def PlaceOrder(self, request, context):\n        \"\"\"Missing associated documentation comment in .proto file.\"\"\"\n        context.set_code(grpc.StatusCode.UNIMPLEMENTED)\n        context.set_details('Method not implemented!')\n        raise NotImplementedError('Method not implemented!')\ndef add_CheckoutServiceServicer_to_server(servicer, server):\n    rpc_method_handlers = {",
+        "detail": "src.recommendationservice.demo_pb2_grpc",
+        "documentation": {}
+    },
+    {
+        "label": "CheckoutService",
+        "kind": 6,
+        "importPath": "src.recommendationservice.demo_pb2_grpc",
+        "description": "src.recommendationservice.demo_pb2_grpc",
+        "peekOfCode": "class CheckoutService(object):\n    \"\"\"-------------Checkout service-----------------\n    \"\"\"\n    @staticmethod\n    def PlaceOrder(request,\n            target,\n            options=(),\n            channel_credentials=None,\n            call_credentials=None,\n            insecure=False,",
+        "detail": "src.recommendationservice.demo_pb2_grpc",
+        "documentation": {}
+    },
+    {
+        "label": "AdServiceStub",
+        "kind": 6,
+        "importPath": "src.recommendationservice.demo_pb2_grpc",
+        "description": "src.recommendationservice.demo_pb2_grpc",
+        "peekOfCode": "class AdServiceStub(object):\n    \"\"\"------------Ad service------------------\n    \"\"\"\n    def __init__(self, channel):\n        \"\"\"Constructor.\n        Args:\n            channel: A grpc.Channel.\n        \"\"\"\n        self.GetAds = channel.unary_unary(\n                '/hipstershop.AdService/GetAds',",
+        "detail": "src.recommendationservice.demo_pb2_grpc",
+        "documentation": {}
+    },
+    {
+        "label": "AdServiceServicer",
+        "kind": 6,
+        "importPath": "src.recommendationservice.demo_pb2_grpc",
+        "description": "src.recommendationservice.demo_pb2_grpc",
+        "peekOfCode": "class AdServiceServicer(object):\n    \"\"\"------------Ad service------------------\n    \"\"\"\n    def GetAds(self, request, context):\n        \"\"\"Missing associated documentation comment in .proto file.\"\"\"\n        context.set_code(grpc.StatusCode.UNIMPLEMENTED)\n        context.set_details('Method not implemented!')\n        raise NotImplementedError('Method not implemented!')\ndef add_AdServiceServicer_to_server(servicer, server):\n    rpc_method_handlers = {",
+        "detail": "src.recommendationservice.demo_pb2_grpc",
+        "documentation": {}
+    },
+    {
+        "label": "AdService",
+        "kind": 6,
+        "importPath": "src.recommendationservice.demo_pb2_grpc",
+        "description": "src.recommendationservice.demo_pb2_grpc",
+        "peekOfCode": "class AdService(object):\n    \"\"\"------------Ad service------------------\n    \"\"\"\n    @staticmethod\n    def GetAds(request,\n            target,\n            options=(),\n            channel_credentials=None,\n            call_credentials=None,\n            insecure=False,",
+        "detail": "src.recommendationservice.demo_pb2_grpc",
+        "documentation": {}
+    },
+    {
+        "label": "add_CartServiceServicer_to_server",
+        "kind": 2,
+        "importPath": "src.recommendationservice.demo_pb2_grpc",
+        "description": "src.recommendationservice.demo_pb2_grpc",
+        "peekOfCode": "def add_CartServiceServicer_to_server(servicer, server):\n    rpc_method_handlers = {\n            'AddItem': grpc.unary_unary_rpc_method_handler(\n                    servicer.AddItem,\n                    request_deserializer=demo__pb2.AddItemRequest.FromString,\n                    response_serializer=demo__pb2.Empty.SerializeToString,\n            ),\n            'GetCart': grpc.unary_unary_rpc_method_handler(\n                    servicer.GetCart,\n                    request_deserializer=demo__pb2.GetCartRequest.FromString,",
+        "detail": "src.recommendationservice.demo_pb2_grpc",
+        "documentation": {}
+    },
+    {
+        "label": "add_RecommendationServiceServicer_to_server",
+        "kind": 2,
+        "importPath": "src.recommendationservice.demo_pb2_grpc",
+        "description": "src.recommendationservice.demo_pb2_grpc",
+        "peekOfCode": "def add_RecommendationServiceServicer_to_server(servicer, server):\n    rpc_method_handlers = {\n            'ListRecommendations': grpc.unary_unary_rpc_method_handler(\n                    servicer.ListRecommendations,\n                    request_deserializer=demo__pb2.ListRecommendationsRequest.FromString,\n                    response_serializer=demo__pb2.ListRecommendationsResponse.SerializeToString,\n            ),\n    }\n    generic_handler = grpc.method_handlers_generic_handler(\n            'hipstershop.RecommendationService', rpc_method_handlers)",
+        "detail": "src.recommendationservice.demo_pb2_grpc",
+        "documentation": {}
+    },
+    {
+        "label": "add_ProductCatalogServiceServicer_to_server",
+        "kind": 2,
+        "importPath": "src.recommendationservice.demo_pb2_grpc",
+        "description": "src.recommendationservice.demo_pb2_grpc",
+        "peekOfCode": "def add_ProductCatalogServiceServicer_to_server(servicer, server):\n    rpc_method_handlers = {\n            'ListProducts': grpc.unary_unary_rpc_method_handler(\n                    servicer.ListProducts,\n                    request_deserializer=demo__pb2.Empty.FromString,\n                    response_serializer=demo__pb2.ListProductsResponse.SerializeToString,\n            ),\n            'GetProduct': grpc.unary_unary_rpc_method_handler(\n                    servicer.GetProduct,\n                    request_deserializer=demo__pb2.GetProductRequest.FromString,",
+        "detail": "src.recommendationservice.demo_pb2_grpc",
+        "documentation": {}
+    },
+    {
+        "label": "add_ShippingServiceServicer_to_server",
+        "kind": 2,
+        "importPath": "src.recommendationservice.demo_pb2_grpc",
+        "description": "src.recommendationservice.demo_pb2_grpc",
+        "peekOfCode": "def add_ShippingServiceServicer_to_server(servicer, server):\n    rpc_method_handlers = {\n            'GetQuote': grpc.unary_unary_rpc_method_handler(\n                    servicer.GetQuote,\n                    request_deserializer=demo__pb2.GetQuoteRequest.FromString,\n                    response_serializer=demo__pb2.GetQuoteResponse.SerializeToString,\n            ),\n            'ShipOrder': grpc.unary_unary_rpc_method_handler(\n                    servicer.ShipOrder,\n                    request_deserializer=demo__pb2.ShipOrderRequest.FromString,",
+        "detail": "src.recommendationservice.demo_pb2_grpc",
+        "documentation": {}
+    },
+    {
+        "label": "add_CurrencyServiceServicer_to_server",
+        "kind": 2,
+        "importPath": "src.recommendationservice.demo_pb2_grpc",
+        "description": "src.recommendationservice.demo_pb2_grpc",
+        "peekOfCode": "def add_CurrencyServiceServicer_to_server(servicer, server):\n    rpc_method_handlers = {\n            'GetSupportedCurrencies': grpc.unary_unary_rpc_method_handler(\n                    servicer.GetSupportedCurrencies,\n                    request_deserializer=demo__pb2.Empty.FromString,\n                    response_serializer=demo__pb2.GetSupportedCurrenciesResponse.SerializeToString,\n            ),\n            'Convert': grpc.unary_unary_rpc_method_handler(\n                    servicer.Convert,\n                    request_deserializer=demo__pb2.CurrencyConversionRequest.FromString,",
+        "detail": "src.recommendationservice.demo_pb2_grpc",
+        "documentation": {}
+    },
+    {
+        "label": "add_PaymentServiceServicer_to_server",
+        "kind": 2,
+        "importPath": "src.recommendationservice.demo_pb2_grpc",
+        "description": "src.recommendationservice.demo_pb2_grpc",
+        "peekOfCode": "def add_PaymentServiceServicer_to_server(servicer, server):\n    rpc_method_handlers = {\n            'Charge': grpc.unary_unary_rpc_method_handler(\n                    servicer.Charge,\n                    request_deserializer=demo__pb2.ChargeRequest.FromString,\n                    response_serializer=demo__pb2.ChargeResponse.SerializeToString,\n            ),\n    }\n    generic_handler = grpc.method_handlers_generic_handler(\n            'hipstershop.PaymentService', rpc_method_handlers)",
+        "detail": "src.recommendationservice.demo_pb2_grpc",
+        "documentation": {}
+    },
+    {
+        "label": "add_EmailServiceServicer_to_server",
+        "kind": 2,
+        "importPath": "src.recommendationservice.demo_pb2_grpc",
+        "description": "src.recommendationservice.demo_pb2_grpc",
+        "peekOfCode": "def add_EmailServiceServicer_to_server(servicer, server):\n    rpc_method_handlers = {\n            'SendOrderConfirmation': grpc.unary_unary_rpc_method_handler(\n                    servicer.SendOrderConfirmation,\n                    request_deserializer=demo__pb2.SendOrderConfirmationRequest.FromString,\n                    response_serializer=demo__pb2.Empty.SerializeToString,\n            ),\n    }\n    generic_handler = grpc.method_handlers_generic_handler(\n            'hipstershop.EmailService', rpc_method_handlers)",
+        "detail": "src.recommendationservice.demo_pb2_grpc",
+        "documentation": {}
+    },
+    {
+        "label": "add_CheckoutServiceServicer_to_server",
+        "kind": 2,
+        "importPath": "src.recommendationservice.demo_pb2_grpc",
+        "description": "src.recommendationservice.demo_pb2_grpc",
+        "peekOfCode": "def add_CheckoutServiceServicer_to_server(servicer, server):\n    rpc_method_handlers = {\n            'PlaceOrder': grpc.unary_unary_rpc_method_handler(\n                    servicer.PlaceOrder,\n                    request_deserializer=demo__pb2.PlaceOrderRequest.FromString,\n                    response_serializer=demo__pb2.PlaceOrderResponse.SerializeToString,\n            ),\n    }\n    generic_handler = grpc.method_handlers_generic_handler(\n            'hipstershop.CheckoutService', rpc_method_handlers)",
+        "detail": "src.recommendationservice.demo_pb2_grpc",
+        "documentation": {}
+    },
+    {
+        "label": "add_AdServiceServicer_to_server",
+        "kind": 2,
+        "importPath": "src.recommendationservice.demo_pb2_grpc",
+        "description": "src.recommendationservice.demo_pb2_grpc",
+        "peekOfCode": "def add_AdServiceServicer_to_server(servicer, server):\n    rpc_method_handlers = {\n            'GetAds': grpc.unary_unary_rpc_method_handler(\n                    servicer.GetAds,\n                    request_deserializer=demo__pb2.AdRequest.FromString,\n                    response_serializer=demo__pb2.AdResponse.SerializeToString,\n            ),\n    }\n    generic_handler = grpc.method_handlers_generic_handler(\n            'hipstershop.AdService', rpc_method_handlers)",
+        "detail": "src.recommendationservice.demo_pb2_grpc",
+        "documentation": {}
+    },
+    {
+        "label": "CustomJsonFormatter",
+        "kind": 6,
+        "importPath": "src.recommendationservice.logger",
+        "description": "src.recommendationservice.logger",
+        "peekOfCode": "class CustomJsonFormatter(jsonlogger.JsonFormatter):\n  def add_fields(self, log_record, record, message_dict):\n    super(CustomJsonFormatter, self).add_fields(log_record, record, message_dict)\n    if not log_record.get('timestamp'):\n      log_record['timestamp'] = record.created\n    if log_record.get('severity'):\n      log_record['severity'] = log_record['severity'].upper()\n    else:\n      log_record['severity'] = record.levelname\ndef getJSONLogger(name):",
+        "detail": "src.recommendationservice.logger",
+        "documentation": {}
+    },
+    {
+        "label": "getJSONLogger",
+        "kind": 2,
+        "importPath": "src.recommendationservice.logger",
+        "description": "src.recommendationservice.logger",
+        "peekOfCode": "def getJSONLogger(name):\n  logger = logging.getLogger(name)\n  handler = logging.StreamHandler(sys.stdout)\n  formatter = CustomJsonFormatter('%(timestamp)s %(severity)s %(name)s %(message)s')\n  handler.setFormatter(formatter)\n  logger.addHandler(handler)\n  logger.setLevel(logging.INFO)\n  logger.propagate = False\n  return logger",
+        "detail": "src.recommendationservice.logger",
+        "documentation": {}
+    },
+    {
+        "label": "RecommendationService",
+        "kind": 6,
+        "importPath": "src.recommendationservice.recommendation_server",
+        "description": "src.recommendationservice.recommendation_server",
+        "peekOfCode": "class RecommendationService(demo_pb2_grpc.RecommendationServiceServicer):\n    def ListRecommendations(self, request, context):\n        max_responses = 5\n        # fetch list of products from product catalog stub\n        cat_response = product_catalog_stub.ListProducts(demo_pb2.Empty())\n        product_ids = [x.id for x in cat_response.products]\n        filtered_products = list(set(product_ids)-set(request.product_ids))\n        num_products = len(filtered_products)\n        num_return = min(max_responses, num_products)\n        # sample list of indicies to return",
+        "detail": "src.recommendationservice.recommendation_server",
+        "documentation": {}
+    },
+    {
+        "label": "initStackdriverProfiling",
+        "kind": 2,
+        "importPath": "src.recommendationservice.recommendation_server",
+        "description": "src.recommendationservice.recommendation_server",
+        "peekOfCode": "def initStackdriverProfiling():\n  project_id = None\n  try:\n    project_id = os.environ[\"GCP_PROJECT_ID\"]\n  except KeyError:\n    # Environment variable not set\n    pass\n  for retry in range(1,4):\n    try:\n      if project_id:",
+        "detail": "src.recommendationservice.recommendation_server",
+        "documentation": {}
+    },
+    {
+        "label": "logger",
+        "kind": 5,
+        "importPath": "src.recommendationservice.recommendation_server",
+        "description": "src.recommendationservice.recommendation_server",
+        "peekOfCode": "logger = getJSONLogger('recommendationservice-server')\ndef initStackdriverProfiling():\n  project_id = None\n  try:\n    project_id = os.environ[\"GCP_PROJECT_ID\"]\n  except KeyError:\n    # Environment variable not set\n    pass\n  for retry in range(1,4):\n    try:",
+        "detail": "src.recommendationservice.recommendation_server",
+        "documentation": {}
+    }
+]
