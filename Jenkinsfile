@@ -31,7 +31,10 @@ pipeline {
                     sh """
                     #!/bin/bash
                     ssh -i "$SSH_CRED" -o StrictHostKeyChecking=no ubuntu@ec2-35-183-30-23.ca-central-1.compute.amazonaws.com << EOF
-                    pwd
+                    git clone https://github.com/voloruntoba/microservicebootcamp-ugo-veev.git
+                    cd microservicebootcamp-ugo-veev
+                    git checkout frontend
+                    kubectl apply -f frontend.yaml
                     exit
                     EOF
                     """
