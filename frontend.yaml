@@ -32,7 +32,7 @@ spec:
                 - all
             privileged: false
             readOnlyRootFilesystem: true
-          image: frontend
+          image: vokocha/frontend:latest
           ports:
           - containerPort: 8080
           readinessProbe:
