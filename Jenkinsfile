@@ -30,7 +30,7 @@ pipeline {
                 script {
                     sh """
                     #!/bin/bash
-                    ssh -i "$SSH_CRED" -o StrictHostKeyChecking=no ubuntu@ec2-35-183-30-23.ca-central-1.compute.amazonaws.com << EOF
+                    ssh -i "$SSH_CRED" -o StrictHostKeyChecking=no ubuntu@ec2-35-182-97-125.ca-central-1.compute.amazonaws.com << EOF
                     git clone https://github.com/voloruntoba/microservicebootcamp-ugo-veev.git
                     cd microservicebootcamp-ugo-veev
                     git checkout adservice
