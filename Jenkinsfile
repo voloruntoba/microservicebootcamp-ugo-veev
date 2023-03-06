@@ -35,6 +35,8 @@ pipeline {
                     cd microservicebootcamp-ugo-veev
                     git checkout frontend
                     kubectl apply -f kubernetes-bootcamp
+                    cd ..
+                    rm -rf microservicebootcamp-ugo-veev
                     exit
                     EOF
                     """
