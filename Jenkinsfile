@@ -10,7 +10,7 @@ pipeline {
         stage('Build & Push') {
             steps {
                 withCredentials([usernamePassword(credentialsId: 'dockercred', passwordVariable: 'dockerpass', usernameVariable: 'dockeruser')]) {
-				sh 'cd Google-Kubernetes-boilerplate/app/adservice && docker build -t adservice .'
+				sh 'cd microservicebootcamp-ugo-veev/app/adservice && docker build -t adservice .'
                 sh 'docker login -u $dockeruser -p $dockerpass'
                 sh 'docker tag adservice   $dockeruser/adservice:latest'
                 sh 'docker push $dockeruser/adservice:latest'
